@@ -1,4 +1,4 @@
-import { FAILURE, REQUEST, SUCCESS } from "./actionTypes";
+import { FAILURE, REQUEST, SUCCESS,ASC,DESC, SEARCH } from "./actionTypes";
 
 const initState = {
   data: [],
@@ -8,64 +8,60 @@ const initState = {
   products: [],
 };
 
-const reducer = (state = initState, { type, payload }) => {
-
+const reducer = (state = initState, { type, payload,value }) => {
   switch (type) {
     case REQUEST:
-      return { ...state, isLoading: true, isError: false, products: [] };
+      return {
+        ...state,
+        isLoading: true,
+        isError: false,
+        products: [],
+        data: [],
+      };
     case SUCCESS:
-      return { ...state, isLoading: false, isError: false, products: payload };
-
+      return {
+        ...state,
+        isLoading: false,
+        isError: false,
+        products: [],
+        data: payload,
+      };
     case FAILURE:
-      return { ...state, isLoading: false, isError: true, products: [] };
+      return {
+        ...state,
+        isLoading: false,
+        isError: true,
+        products: [],
+        data: [],
+      };
 
-    case "ASC":
+    case ASC:
       return {
         ...state,
         isLoading: false,
-        isError: true,
-        products: payload.sort((a, b) => a.price - b.price),
+        isError: false,
+        products: [],
+        data: payload.sort((a, b) => a.price - b.price),
       };
-    case "DESC":
+    case DESC:
       return {
         ...state,
         isLoading: false,
-        isError: true,
-        products: payload.sort((a, b) => b.price - a.price),
+        isError: false,
+        products: [],
+        data: payload.sort((a, b) => b.price - a.price),
       };
-      case "men":
+      case SEARCH:
+        console.log(value);
+        console.log(payload,"ddddata")
         return {
           ...state,
           isLoading: false,
-          isError: true,
-          data: payload.filter((el) =>el.category=="men"),
-          products: payload
+          isError: false,
+          products: [],
+          data: payload.filter((el)=>el.name.includes(value)),
         };
-        case "women":
-          return {
-            ...state,
-            isLoading: false,
-            isError: true,
-            data: payload.filter((el)=>el.category=="women"),
-            
-          };
-            case "kids":
-              return {
-                ...state,
-                isLoading: false,
-                isError: true,
-                data: payload.filter((el) =>el.category=="kids" ),
-                products: payload
-              };
-              case "homedecor":
-                return {
-                  ...state,
-                  isLoading: false,
-                  isError: true,
-                  data: payload.filter((el) =>el.category=="homedecor" ),
-                  products: payload
-                };
-   
+
 
 
     default:
@@ -73,4 +69,3 @@ const reducer = (state = initState, { type, payload }) => {
   }
 };
 export { reducer };
-
