@@ -1,45 +1,41 @@
-
 .Pcontainer {
   text-align: center;
   width: 600px;
   margin: auto;
 }
 
-.accounts{
- 
+.accounts {
   display: flex;
- width: 500px;
- margin: auto;
- gap: 10px;
-
+  width: 500px;
+  margin: auto;
+  gap: 10px;
 }
 
-.reg_container{
-  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+.reg_container {
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
+    rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
   height: 700px;
   text-align: left;
 }
-.content{
+.content {
   width: 90%;
-padding-top: 10px;
+  padding-top: 10px;
   margin: auto;
   height: 600px;
 }
 
-.nameInfo{
-
+.nameInfo {
   display: flex;
   justify-content: space-between;
   margin-bottom: 20px;
 }
 
-.ninfo{
-  
+.ninfo {
   width: 240px;
   height: 30px;
 }
 
-.button{
+.button {
   margin-top: 20px;
   height: 30px;
   color: white;
@@ -47,89 +43,83 @@ padding-top: 10px;
   font-weight: 500;
 }
 
-
-
-.login{
+.login {
+  margin-top: 50px;
   float: left;
   text-align: left;
 }
 
-h4{
+h4 {
   color: rgb(95, 93, 93);
   font-weight: 500;
 }
 
-.email{
+.email {
   width: 530px;
   height: 30px;
 }
 
-p{
+p {
   font-weight: 400;
   font-size: 20px;
 }
 
-
-.login{
+.login {
   width: 80%;
   margin-left: 150px;
   justify-content: space-around;
-  
- 
- 
 }
 
-.rightdiv{
+.rightdiv {
   width: 600px;
   padding: 10px;
-  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
+    rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
   padding-right: 25px;
   padding-left: 25px;
 }
 
-
-.logindiv{
+.logindiv {
   display: flex;
   justify-content: space-between;
- 
 }
 
-.form{
+.form {
   padding-right: 25px;
- padding-left: 25px;
-  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+  padding-left: 25px;
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
+    rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
   width: 500px;
   height: 430px;
-  
 }
 
-.lemail{
+.lemail {
   width: 90%;
   height: 30px;
 }
 
-.image{
+.image {
   width: 30px;
   height: 28px;
   border: 1px solid orangered;
   cursor: pointer;
 }
 
-.fbgaccount{
+.fbgaccount {
   height: 30px;
-  color:white;
+  color: white;
   display: flex;
 }
 
-.fbgaccount1{
+.fbgaccount1 {
   height: 30px;
-  color:white;
+  color: white;
   display: flex;
 }
 
-.fbb{
+.fbb {
   height: 30px;
-  color:white;
+  color: white;
   background-color: #1653b5f2;
   width: 200px;
   font-size: 14px;
@@ -140,9 +130,9 @@ p{
   border-bottom-right-radius: 5px;
 }
 
-.gb{
+.gb {
   height: 30px;
-  color:white;
+  color: white;
   background-color: orangered;
   width: 200px;
   font-size: 14px;
@@ -153,23 +143,23 @@ p{
   border-bottom-right-radius: 5px;
 }
 
-.Laccounts{
+.Laccounts {
   width: 500px;
   display: flex;
   margin-left: 90px;
   gap: 10px;
 }
 
-.Lor{
+.Lor {
   margin-left: 300px;
   width: 100px;
 }
 
-.loginp{
+.loginp {
   font-size: 16px;
 }
 
-.lbutton{
+.lbutton {
   margin-top: 20px;
   height: 35px;
   color: white;

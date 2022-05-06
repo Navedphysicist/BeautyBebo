@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import { createUserWithEmailAndPassword } from 'firebase/auth';
 import { auth } from '../firebase/firebase';
+import { useNavigate } from 'react-router-dom';
 
 
 
@@ -11,12 +12,12 @@ const Registration = () => {
     const [lastname,setLastName]=useState("")
     const [email,setEmail]=useState("")
     const [password,setPassword]=useState("");
-   
+     const navigate = useNavigate();
   
     const handledata=async()=>{
 
         try{
-                   let res=await fetch("http://localhost:3000/posts",{
+                   let res=await fetch("http://localhost:3001/posts",{
                        method:"POST",
                        headers:{"content-type":"application/json"},
                        body:JSON.stringify({
@@ -41,14 +42,31 @@ const Registration = () => {
 
    const handleSubmit=async(e)=>{
        e.preventDefault();
+       
+              setEmail("");
+              setPassword("")
+              console.log(email,password,firstname,lastname,phone)
+       
+              try{
+                  let res=await fetch("http://localhost:3001/posts",{
+                      method:"POST",
+                      headers:{"content-type":"application/json"},
+                      body:JSON.stringify({
+                          email,
+                          password,
+                          firstname,
+                          lastname
+                      })
+                     
+                  })
+                  let data=await res.json();
+                  navigate('/login')  
+       
+              }catch(e){
+                  console.log(e)
+              }
 
-       try{
-           const user= await createUserWithEmailAndPassword(auth,email,password)
-           console.log(user)
-
-       }catch(error){
-           console.log(error.message)
-       }
+       
 
 
 
@@ -60,28 +78,6 @@ const Registration = () => {
 
 
 
-
-    //    setEmail("");
-    //    setPassword("")
-    //    console.log(email,password,firstname,lastname,phone)
-
-    //    try{
-    //        let res=await fetch("http://localhost:3000/posts",{
-    //            method:"POST",
-    //            headers:{"content-type":"application/json"},
-    //            body:JSON.stringify({
-    //                email,
-    //                password,
-    //                firstname,
-    //                lastname
-    //            })
-
-    //        })
-    //        let data=await res.json();
-
-    //    }catch(e){
-    //        console.log(e)
-    //    }
    }
 
   return (

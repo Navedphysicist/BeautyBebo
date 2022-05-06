@@ -1,56 +1,49 @@
-import { signInWithEmailAndPassword } from 'firebase/auth';
+
 import React, { useEffect, useState } from 'react'
-import { auth } from '../firebase/firebase';
+
 import Navbar from "../BBcreamitem/Navbar"
+import { useNavigate } from 'react-router-dom';
+import { useDispatch } from 'react-redux';
 
 
 const Login = () => {
     const [email,setEmail]=useState("");
     const [password,setPassword]=useState("")
+    const navigate = useNavigate();
+    const dispatch = useDispatch();
+
+   let data;
     
-   
-
-//    let data;
-    
-//    const getData=async()=>{
-    
-//     try{
-//         let res=await fetch("http://localhost:3000/posts")
-//         data= await res.json();
-//     }catch(e){
-//         console.log(e)
-//     }
-//  }
-    
-
-//     useEffect(()=>{
-//      getData();
-//      },[])
-
-
- const login=async()=>{
-    //  let flag = false ;
-
-    //  console.log(data)
-    //  data.forEach(el => {
-    //      if(email===el.email && password===el.password){
-    //          flag = true ;
-    //          alert("Login Successful") ;
-    //      }
-    //  });
-    //  if(flag===false){
-    //      alert("Invalid Credentials")
-    //  }
-
+   const getData=async()=>{
     try{
-        const user= await signInWithEmailAndPassword(auth,email,password)
-        console.log(user)
-
-    }catch(error){
-        console.log(error.message)
-        alert("wrong credentials")
+        let res=await fetch("http://localhost:3001/posts")
+        data= await res.json();
+    }catch(e){
+        console.log(e)
     }
+ }
+    
 
+    useEffect(()=>{
+     getData();
+     },[email,password])
+
+
+ const handlelogin=()=>{
+     
+     let flag = false ;
+
+     console.log(data)
+     data.forEach(el => {
+         if(email===el.email && password===el.password){
+             flag = true ;
+             alert("Login Successful") ;
+             navigate('/lips')
+         }
+     });
+     if(flag===false){
+         alert("Invalid Credentials")
+     }
 
 
 
@@ -60,9 +53,10 @@ const Login = () => {
 
 
   return (
-      
+      <>
+    <Navbar/>
     <div className='login'>
-        <Navbar/>
+      
         <div>
           <h3>CUSTOMER LOGIN</h3>
           <div >
@@ -96,7 +90,7 @@ const Login = () => {
             <input type="password" className='lemail' onChange={(e)=>setPassword(e.target.value)}/>
         </div>
       
-         <div><input type="button" className='lbutton' value="Sign In" onClick={login} /></div>
+         <div><input type="button" className='lbutton' value="Sign In" onClick={handlelogin} /></div>
          <>Forgot your Password?</>
         
     </form>
@@ -106,12 +100,13 @@ const Login = () => {
         <p>NEW CUSTOMERS</p>
         <hr />
         Creating an account has many benefits: check out faster, keep more than one addres,track orders and more.
-        <div ><button className='lbutton'>CREATE AN ACCOUNT</button></div>     
+        <div ><button onClick ={()=>navigate('/registration')} className='lbutton'>CREATE AN ACCOUNT</button></div>     
     </div>
 
     </div>
     </div>
     </div>
+    </>
   )
 }
 

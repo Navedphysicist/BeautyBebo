@@ -1,6 +1,8 @@
 // use axios for api call
 import axios from "axios";
 import { FAILURE, REQUEST, SEARCH, SUCCESS } from "./actionTypes";
+import { signInWithEmailAndPassword } from 'firebase/auth';
+
 
 export const getRequest = () => ({ type: REQUEST });
 export const getSuccess = (payload) => ({ type: SUCCESS, payload });
