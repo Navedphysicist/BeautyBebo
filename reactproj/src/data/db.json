@@ -8,74 +8,18 @@
       "password": "password"
     },
     {
-      "email": "pamkamk@gmailcom",
-      "password": "pankaj",
-      "firstname": "Pankaj",
-      "lastname": "kumar",
+      "email": "navedkhan@gmail.com",
+      "password": "navedkhan",
+      "firstname": "Naved",
+      "lastname": "Khan",
       "id": 2
     },
     {
-      "email": "pankaj@hotmail.com",
-      "password": "",
-      "firstname": "neeraj",
-      "lastname": "kumar",
-      "id": 4
-    },
-    {
-      "email": "p@gmail.com",
-      "password": "PANKAJ",
-      "firstname": "Pankaj",
-      "lastname": "kumar",
-      "id": 5
-    },
-    {
-      "email": "p@gmail.com",
-      "password": "PANKAJ",
-      "firstname": "Pankaj",
-      "lastname": "kumar",
-      "id": 6
-    },
-    {
       "email": "navedkhan@gmail.com",
       "password": "navedkhan",
       "firstname": "Naved",
       "lastname": "Khan",
-      "id": 7
-    },
-    {
-      "email": "navedkhan@gmail.com",
-      "password": "navedkhan",
-      "firstname": "Naved",
-      "lastname": "Khan",
-      "id": 8
-    },
-    {
-      "email": "fsf",
-      "password": "",
-      "firstname": "naved",
-      "lastname": "sfsf",
-      "id": 9
-    },
-    {
-      "email": "fsf",
-      "password": "",
-      "firstname": "naved",
-      "lastname": "sfsf",
-      "id": 10
-    },
-    {
-      "email": "",
-      "password": "",
-      "firstname": "",
-      "lastname": "",
-      "id": 11
-    },
-    {
-      "email": "",
-      "password": "",
-      "firstname": "",
-      "lastname": "",
-      "id": 12
+      "id": 3
     }
   ]
 }

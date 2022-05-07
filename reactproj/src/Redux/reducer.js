@@ -1,9 +1,6 @@
 import { FAILURE, REQUEST, SUCCESS,ASC,DESC, SEARCH } from "./actionTypes";
-<<<<<<< Updated upstream
-=======
 import {  GET_INDEX_DATA,  GET_CATS_DATA,  GET_BESTSELLER_DATA,  GET_LATEST_DATA,  GET_MAKEUP_DATA,  GET_MOSTVIEWED_DATA,  GET_CATPRODUCTS_DATA,} from "./actionTypes";
 
->>>>>>> Stashed changes
 
 const initState = {
   data: [],
@@ -11,15 +8,12 @@ const initState = {
   isError: false,
   filterData: [],
   products: [],
-<<<<<<< Updated upstream
-=======
   newArrivals: [],
   bestSeller: [],
   latestProducts: [],
   mostViewed: [],
   cats: [],
   catProducts: [],
->>>>>>> Stashed changes
 };
 
 const reducer = (state = initState, { type, payload,value }) => {
@@ -75,11 +69,6 @@ const reducer = (state = initState, { type, payload,value }) => {
           products: [],
           data: payload.filter((el)=>el.name.includes(value)),
         };
-<<<<<<< Updated upstream
-
-
-
-=======
         case GET_INDEX_DATA:
       return {
         ...state,
@@ -110,7 +99,6 @@ const reducer = (state = initState, { type, payload,value }) => {
         ...state,
         catProducts: payload,
       };
->>>>>>> Stashed changes
     default:
       return state;
   }

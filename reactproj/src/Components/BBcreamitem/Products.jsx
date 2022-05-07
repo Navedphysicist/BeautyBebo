@@ -138,10 +138,7 @@ const Products = () => {
       </div>
       </div>
       </ProdData>
-<<<<<<< Updated upstream
-=======
       <Footer/>
->>>>>>> Stashed changes
     </>
   );
 };
