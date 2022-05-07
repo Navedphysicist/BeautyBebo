@@ -1,0 +1,235 @@
+.horiZontalCart {
+  width: 96%;
+  height: 3px;
+  background-color: rgba(128, 128, 128, 0.306);
+}
+.cartTitle {
+  color: rgba(0, 0, 0, 0.913);
+  font-size: 20px;
+  font-weight: 500;
+  margin-left: 40px;
+}
+.ItemQtyTotal {
+  display: flex;
+  margin-left: 40px;
+  justify-content: space-between;
+  font-weight: 500;
+  color: rgba(0, 0, 0, 0.541);
+}
+.PriceQty {
+  display: flex;
+  margin-right: 60px;
+}
+.Qty {
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.horiZontalCartSmall {
+  width: 96%;
+  height: 1px;
+  background-color: rgba(128, 128, 128, 0.306);
+}
+.cartContent {
+  width: 100%;
+  height: 250px;
+  display: flex;
+}
+.cartImg {
+  width: 200px;
+  height: 200px;
+  margin-top: 20px;
+  margin-left: 30px;
+  border: 1px solid rgba(128, 128, 128, 0.404);
+}
+
+.cartImg:hover {
+  border: 1px solid #dd0285;
+  cursor: pointer;
+}
+.totalContent {
+  margin-left: 20px;
+  margin-top: 40px;
+}
+.ProductNameInCart {
+  margin-left: 20px;
+  width: 300px;
+  /* border: 1px solid red; */
+  margin-top: 22px;
+  margin-right: 0x;
+}
+.ProductNameInCart:hover {
+  color: #dd0285;
+  cursor: pointer;
+}
+.ProductNameInCart1 {
+  display: flex;
+  justify-content: space-between;
+}
+.itemQtyInput {
+  width: 40px;
+  height: 20px;
+  margin-top: 16px;
+  margin-left: 50px;
+  margin-right: 50px;
+  border: solid 1px black;
+}
+.PriceQty1 {
+  margin-left: 100px;
+  display: flex;
+}
+.btneditandRemove {
+  margin-left: 20px;
+  margin-top: 130px;
+}
+
+.MoveToWishListbtn {
+  height: 30px;
+  border: 1px solid rgba(128, 128, 128, 0.404);
+  font-weight: 600;
+}
+.Editbtn {
+  height: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+  border: 1px solid rgba(128, 128, 128, 0.404);
+  background-color: white;
+}
+.RemoveItembtn {
+  height: 30px;
+  border: 1px solid rgba(128, 128, 128, 0.404);
+  background-color: white;
+}
+.RemoveItembtn:hover {
+  background-color: #dd0285;
+  cursor: pointer;
+  color: white;
+}
+.Editbtn:hover {
+  background-color: #dd0285;
+  cursor: pointer;
+  color: white;
+}
+.MoveToWishListbtn:hover {
+  background-color: rgba(128, 128, 128, 0.363);
+  cursor: pointer;
+}
+.btnShopAndUpdate {
+  margin-top: 40px;
+  margin-left: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+.btnContinueShopping {
+  height: 40px;
+  background-color: #dd0285;
+  border: none;
+  color: white;
+}
+.btnUpdateShopping {
+  height: 40px;
+  background-color: #dd0285;
+  border: none;
+  color: white;
+  margin-right: 60px;
+}
+.btnUpdateShopping:hover {
+  background-color: gray;
+  cursor: pointer;
+}
+.btnContinueShopping:hover {
+  background-color: gray;
+  cursor: pointer;
+}
+.ESTIMATESHIPPINGANDTAX {
+  width: 250px;
+  display: flex;
+  border: 1px solid black;
+  justify-content: center;
+  align-items: center;
+
+  height: 40px;
+  margin-left: 20px;
+}
+.horiLineInCart2 {
+  width: 300px;
+  height: 1px;
+  background-color: rgba(128, 128, 128, 0.24);
+  margin-top: 10px;
+  width: 84%;
+  margin-left: 7%;
+}
+.cartContainer2 {
+  border: 1px solid black;
+  width: 300px;
+  height: 440px;
+
+  justify-content: center;
+}
+.CartSummaryTitle {
+  margin-left: 20px;
+  margin-bottom: -10px;
+  width: 80%;
+}
+.SubTotalIncart2 {
+  margin-left: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.priceInCart2 {
+  margin-right: 40px;
+}
+
+.horiLineInCart2Small {
+  width: 300px;
+  height: 1px;
+  background-color: rgba(128, 128, 128, 0.24);
+  margin-top: 10px;
+  width: 84%;
+  margin-left: 7%;
+  margin-top: -5px;
+}
+.ESTIMATESHIPPINGANDTAX1 {
+  width: 250px;
+  display: flex;
+  border: 1px solid black;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+  height: 40px;
+  margin-left: 20px;
+}
+.horiLineInCart2large {
+  width: 300px;
+  height: 1px;
+  background-color: rgba(128, 128, 128, 0.322);
+  margin-top: 10px;
+  /* width: 84%; */
+  /* margin-left: 7%; */
+  margin-top: 15px;
+}
+.ESTIMATESHIPPINGANDTAXbtn {
+  width: 250px;
+  display: flex;
+  color: white;
+  background-color: #dd0285;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+  height: 40px;
+  margin-left: 20px;
+  border: none;
+}
+.ESTIMATESHIPPINGANDTAXbtn:hover {
+  cursor: pointer;
+  background-color: #666666;
+}
+.CartOne {
+  display: flex;
+}
+.CartOne1 {
+  width: 75%;
+}
+.CartOne2 {
+  margin-top: 80px;
+  width: 25%;
+}
