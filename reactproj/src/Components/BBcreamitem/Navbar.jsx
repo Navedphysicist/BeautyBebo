@@ -16,6 +16,7 @@ const Navg = styled.div`
   align-items: center;
   justify-content: space-around;
   position: absolute;
+  margin-bottom: 30px;
   /* border:0.125rem solid purple; */
   
 }

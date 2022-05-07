@@ -1,7 +1,8 @@
 // use axios for api call
 import axios from "axios";
 import { FAILURE, REQUEST, SEARCH, SUCCESS } from "./actionTypes";
-import { signInWithEmailAndPassword } from 'firebase/auth';
+import { GET_INDEX_DATA } from "./actionTypes";
+
 
 
 export const getRequest = () => ({ type: REQUEST });
@@ -33,3 +34,32 @@ export const searchdata = (para, data) => ({
   payload: data,
 });
  
+export const getIndexData = (dispatch,path,type) => {
+  try {
+    axios
+      .get(`http://localhost:8080/${path}`)
+      .then((res) => {
+        dispatch({
+          type,
+          payload: res.data,
+        });
+      })
+      .catch((error) => {
+        console.log(error);
+      });
+  } catch (error) {
+    console.log(error);
+  }
+};
+
+// export const addToCart = (product)=>{
+//   axios.post('http://localhost:8081',product)
+//   .then(function (response) {
+//     console.log(response);
+//   })
+//   .catch(function (error) {
+//     console.log(error);
+//   });
+ 
+// }
+

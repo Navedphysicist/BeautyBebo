@@ -1,6 +1,10 @@
 import React, { useState } from 'react'
 import { useNavigate } from 'react-router-dom';
+import { FirstImageDiv } from '../BBcreamitem/FirstImageDiv';
 import Navbar from '../BBcreamitem/Navbar';
+import NavbarSearch from '../BBcreamitem/NavbarSearch';
+import Footer from '../Footer/Footer';
+
 
 
 const Registration = () => {
@@ -67,8 +71,10 @@ const Registration = () => {
    }
 
   return (
-    
-      <> 
+      <>
+    <FirstImageDiv/>
+    <NavbarSearch/>
+    <Navbar/>
     <div className='Pcontainer'>
     <p>CREATING NEW CUSTOMER ACCOUNT</p>
     <div className='accounts'>
@@ -126,6 +132,7 @@ const Registration = () => {
     </div>
 
     </div>
+    <Footer/>
     </>
   )
 }

@@ -4,7 +4,7 @@ import IconButton from "@mui/material/IconButton";
 import FavoriteIcon from "@mui/icons-material/Favorite";
 import { useDispatch, useSelector } from "react-redux";
 import { searchdata } from "../../Redux/actions";
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 
 const NavbarSearch = () => {
   const Flex = styled.div`
@@ -113,6 +113,7 @@ const NavbarSearch = () => {
   `;
   const { data } = useSelector((state) => state.reducer);
   const dispatch = useDispatch();
+  const navigate =useNavigate();
   const handleSearch = (e) => {
     if (e.key === "Enter") {
       const searchValue = e.target.value;
@@ -121,8 +122,9 @@ const NavbarSearch = () => {
   };
 
   return (
-    <Flex>
+    <Flex >
       <img
+        onClick={()=>{navigate('/')}}
         src="https://www.beautybebo.com/pub/media/logo/default/beautybebo_1.png"
         alt="Invalid"
       />

@@ -3,270 +3,270 @@
     {
       "id": 1,
       "name": "faces canada peaches n cream tinted moisturizer - light 01",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/4/54_2.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/4/54_2.jpg",
       "price": 539.0
     },
     {
       "id": 2,
       "name": "the body shop all-in-one bb cream",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/t/h/th1.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/t/h/th1.jpg",
 
       "price": 1373
     },
     {
       "id": 3,
       "name": "l'oreal paris true match bb cream spf 35 pa+++ - silver/gold",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/l/o/lo17.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/l/o/lo17.jpg",
       "price": 603.0
     },
     {
       "id": 4,
       "name": "o3+ bright glow bb cream spf 30 pa+++",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/o/3/o3.jpg"
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/o/3/o3.jpg"
     },
     {
       "id": 5,
       "name": "swiss beauty shiny pearl water drop blemish balm bb foundation",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/s/b/sb6.jpg"
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/s/b/sb6.jpg"
     },
     {
       "id": 7,
       "name": "olay total effects 7 in one touch of foundation bb cream day spf 15",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/2/92_1_2.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/2/92_1_2.jpg",
 
       "price": 781.0
     },
     {
       "id": 8,
       "name": "nyx professional makeup born to glow liquid illuminator - sunbeam",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/0/10_26_4.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/0/10_26_4.jpg",
 
       "price": 782.0
     },
     {
       "id": 9,
       "name": "ponds anti-pollution cream",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/p/n/pn1.jpeg"
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/p/n/pn1.jpeg"
     },
     {
       "id": 10,
       "name": "ponds white beauty anti spot fairness cream spf 15 pa++",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/n/3/n3.jpg"
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/n/3/n3.jpg"
     },
     {
       "id": 11,
       "name": "ponds white beauty spot-less fairness day cream",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/p/1/p11.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/p/1/p11.jpg",
       "price": 242.0
     },
     {
       "id": 12,
       "name": "ponds anti spot fairness",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/p/o/ponds_white_beauty_anti_spot_fairness.jpg"
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/p/o/ponds_white_beauty_anti_spot_fairness.jpg"
     },
     {
       "id": 13,
       "name": "olay total effects 7 in one light weight cream day spf 15",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/8/58_1.jpg"
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/8/58_1.jpg"
     },
     {
       "id": 14,
       "name": "olay white radiance brightening intensive day cream spf24 uva moisturiser",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/_/1_121.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/_/1_121.jpg",
 
       "price": 899.0
     },
     {
       "id": 15,
       "name": "maybelline new york clear glow bb cream - radiance",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/b/bbbb_1.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/b/bbbb_1.jpg",
 
       "price": 231.0
     },
     {
       "id": 16,
       "name": "ponds flawless radiance derma+ bb cream spf 30 pa++ - beige",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/b/bb_cream1.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/b/bb_cream1.jpg",
 
       "price": 338.0
     },
     {
       "id": 17,
       "name": "garnier skin naturals micellar cleansing water with bb cream",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/c/l/cleansing1_2.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/c/l/cleansing1_2.jpg",
       "price": 220.0
     },
     {
       "id": 18,
       "name": "maybelline new york clear smooth bb cream - 01 fresh",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/0/1/01_fresh.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/0/1/01_fresh.jpg",
       "price": 190.0
     }
   ],
   "makeup": [
     {
       "name": "miss claire eyelash glue - clear tone",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/7/277cf77missc00000081_1.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/7/277cf77missc00000081_1.jpg",
       "price": 322.0
     },
     {
       "name": "maybelline new york fit me primer - dewy+smooth",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/b/5b990e16902395773146_3.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/b/5b990e16902395773146_3.jpg",
 
       "price": 475.0
     },
     {
       "name": "l'oreal paris infallible full wear concealer",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/9/6902395735908_0.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/9/6902395735908_0.jpg",
 
       "price": 735.0
     },
     {
       "name": "faces canada ultime pro matte play eyeliner",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/1/51c18ra5qzs._sl1500_.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/1/51c18ra5qzs._sl1500_.jpg",
 
       "price": 604.0
     },
     {
       "name": "colorbar intensify liquid gel eyeliner - arabian nights",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/c/bcf6c6c8904052434726__2_.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/c/bcf6c6c8904052434726__2_.jpg",
 
       "price": 699.0
     },
     {
       "name": "nyx professional makeup pore filler",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/1/618a4rcg7il._sl1500_.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/1/618a4rcg7il._sl1500_.jpg",
 
       "price": 1378.0
     },
     {
       "name": "mamaearth naturally matte lip serum - matte liquid lipstick with vitamin c & e",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/r/artboard_1_5.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/r/artboard_1_5.jpg",
 
       "price": 539.0
     },
     {
       "name": "colorbar infinite 24hrs eyeliner",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904052409748-2.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904052409748-2.jpg",
 
       "price": 651.0
     },
     {
       "name": "nyx professional makeup butter gloss - angel food cake",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/0/800897828363_02.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/0/800897828363_02.jpg",
 
       "price": 495.0
     },
     {
       "name": "pac makeup blender foundation",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/7/a74edf0nypac00001337m1.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/7/a74edf0nypac00001337m1.jpg",
       "price": 675.0
     },
     {
       "name": "mamaearth rose tinted 100% natural lip balm",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/7/57180618906087776895_rose__6_.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/7/57180618906087776895_rose__6_.jpg",
 
       "price": 299.0
     },
     {
       "name": "mamaearth ubtan tinted 100% natural lip balm for lightening dark lips",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/f/2ff90618906087776918__6_.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/f/2ff90618906087776918__6_.jpg",
 
       "price": 299.0
     },
     {
       "name": "mamaearth vitamin c tinted 100% natural lip balm for lip lightening",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/0/a0c40618906087776895_vitc__6_.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/0/a0c40618906087776895_vitc__6_.jpg",
 
       "price": 299.0
     },
     {
       "name": "faces canada ultimepro twist eye kajal liner",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/_/3_126.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/_/3_126.jpg",
 
       "price": 539.0
     },
     {
       "name": "miss claire mineral blusher kit - 3716-4-04",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/_/5_91.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/_/5_91.jpg",
 
       "price": 338.0
     },
     {
       "name": "nyx professional makeup epic ink liner - black",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/0/20_12_5.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/0/20_12_5.jpg",
 
       "price": 759.0
     },
     {
       "name": "faces canada peaches n cream tinted moisturizer - light 01",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/4/54_2.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/4/54_2.jpg",
 
       "price": 539.0
     },
     {
       "name": "mamaearth cherry tinted 100% natural lip balm with cherry and coconut oil",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/4/44_2_3.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/4/44_2_3.jpg",
 
       "price": 299.0
     },
     {
       "name": "mamaearth coco tinted 100% natural lip balm with coco and vitamin e",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/2/42_3_2.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/2/42_3_2.jpg",
 
       "price": 299.0
     },
     {
       "name": "mamaearth charcoal black long stay kohl with castor oil and chamomile for 11-hour smudge-free stay with free sharpener",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/9/39_2_2.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/9/39_2_2.jpg",
 
       "price": 449.0
     },
     {
       "name": "lakme absolute illuminating blush shimmer brick - in pink",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/7/37_4_2.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/7/37_4_2.jpg",
 
       "price": 689.0
     },
     {
       "name": "faces canada ultime pro hd all that glow highlighter",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/6/36_4_2.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/6/36_4_2.jpg",
 
       "price": 809.0
     },
     {
       "name": "mamaearth rose tinted 100% natural lip balm with rose oil and castor oil",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/_/8_41_4.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/_/8_41_4.jpg",
 
       "price": 299.0
     },
     {
       "name": "blue heaven bling matte + metallic eyeshadow palette - subtle romance - pack of 2",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/_/2_174_6.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/_/2_174_6.jpg",
 
       "price": 450.0
     },
     {
       "name": "mamaearth ubtan tinted 100% natural lip balm with turmeric & saffron",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/_/5_90_3.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/_/5_90_3.jpg",
 
       "price": 299.0
     },
     {
       "name": "swiss beauty pro 12 exotic color eyeshadows - fearless",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/_/4_98_9.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/_/4_98_9.jpg",
 
       "price": 449.0
     },
     {
       "name": "faces canada ultime pro brow defining pencil - dark brown 02",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/_/1_210_10.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/_/1_210_10.jpg",
 
       "price": 449.0
     },
     {
       "name": "faces canada ultimepro hd deep black one stroke kajal",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/_/1_210_8.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/_/1_210_8.jpg",
 
       "price": 643.0
     }
@@ -274,1102 +274,1102 @@
   "eye": [
     {
       "name": "miss claire eyelash glue - clear tone",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/7/277cf77missc00000081_1.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/7/277cf77missc00000081_1.jpg",
       "price": 322.0
     },
     {
       "name": "faces canada ultime pro matte play eyeliner",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/1/51c18ra5qzs._sl1500_.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/1/51c18ra5qzs._sl1500_.jpg",
       "price": 604.0
     },
     {
       "name": "colorbar intensify liquid gel eyeliner - arabian nights",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/c/bcf6c6c8904052434726__2_.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/c/bcf6c6c8904052434726__2_.jpg",
 
       "price": 699.0
     },
     {
       "name": "faces canada ultimepro twist eye kajal liner",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/_/3_126.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/_/3_126.jpg",
 
       "price": 539.0
     },
     {
       "name": "blue heaven 12-in-1 bling eyeshadow palette - cocktail fever - (pack of 2)",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/_/1_210_13.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/_/1_210_13.jpg",
 
       "price": 450.0
     },
     {
       "name": "faces canada ultime pro eye shadow palette - nude 01",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/1/21_12_6.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/1/21_12_6.jpg",
 
       "price": 920.0
     },
     {
       "name": "nyx professional makeup epic ink liner - black",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/0/20_12_5.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/0/20_12_5.jpg",
 
       "price": 759.0
     },
     {
       "name": "colorbar lash illusion mascara lengthening lash & volumising mascara",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/6/56_2.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/6/56_2.jpg",
 
       "price": 446.0
     },
     {
       "name": "mamaearth charcoal black long stay kohl with castor oil and chamomile for 11-hour smudge-free stay with free sharpener",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/9/39_2_2.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/9/39_2_2.jpg",
       "price": 449.0
     },
     {
       "name": "faces canada ultime pro a matte made in heaven ink eyeliner",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/_/5_90_5.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/_/5_90_5.jpg",
       "price": 539.0
     },
     {
       "name": "blue heaven bling matte + metallic eyeshadow palette - subtle romance - pack of 2",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/_/2_174_6.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/_/2_174_6.jpg",
       "price": 450.0
     },
     {
       "name": "swiss beauty pro 12 exotic color eyeshadows - fearless",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/_/4_98_9.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/_/4_98_9.jpg",
       "price": 449.0
     },
     {
       "name": "faces canada ultime pro brow defining pencil - dark brown 02",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/_/1_210_10.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/_/1_210_10.jpg",
       "price": 449.0
     },
     {
       "name": "faces canada ultimepro hd deep black one stroke kajal",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/_/1_210_8.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/_/1_210_8.jpg",
       "price": 643.0
     },
     {
       "name": "swiss beauty hd textured shadow palette - 2",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/4/140_1_1.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/4/140_1_1.jpg",
       "price": 549.0
     },
     {
       "name": "blue heaven intense eyeliner easy sketch - extreme black - (pack of 2)",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/1/51_1.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/1/51_1.jpg",
       "price": 288.0
     },
     {
       "name": "faces canada ultime pro eye shadow palette - glimmer 03",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/7/179.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/7/179.jpg",
       "price": 949.0
     },
     {
       "name": "lakme absolute infinity eye shadow palette - soft nudes",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/7/177.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/7/177.jpg",
       "price": 915.0
     },
     {
       "name": "miss claire make up palette 9924 (make up kit)",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/6/160.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/6/160.jpg",
       "price": 1007.0
     },
     {
       "name": "miss claire make up palette 9929 (make up kit)",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/5/159.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/5/159.jpg",
       "price": 2180.0
     },
     {
       "name": "miss claire make up palette 9910 (make up kit)",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/5/158.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/5/158.jpg",
       "price": 1007.0
     },
     {
       "name": "miss claire the naked natural nudes eye color palette - 1",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/5/157.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/5/157.jpg",
       "price": 639.0
     },
     {
       "name": "miss claire make up palette 9911 (make up kit)",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/5/155.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/5/155.jpg",
       "price": 1058.0
     },
     {
       "name": "miss claire professional eyeshadow palette - 3",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/5/154.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/5/154.jpg",
       "price": 1895.0
     },
     {
       "name": "miss claire make up palette 9953-2 (make up kit)",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/5/153.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/5/153.jpg",
       "price": 639.0
     },
     {
       "name": "miss claire make up palette 9951-2 (make up kit)",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/5/152.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/5/152.jpg",
       "price": 446.0
     },
     {
       "name": "miss claire make up palette 9952-2 (make up kit)",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/5/150.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/5/150.jpg",
       "price": 446.0
     },
     {
       "name": "miss claire make up palette 9955-1 (make up kit)",
-      "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/4/149.jpg",
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/4/149.jpg",
       "price": 823.0
     }
   ],
   "lips": [
     {
      "name": "mamaearth naturally matte lip serum - matte liquid lipstick with vitamin c & e",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/r/artboard_1_5.jpg",
-     "image_url": "https://www.beautybebo.com/mamaearth-naturally-matte-lip-serum-matte-liquid-lipstick-with-vitamin-c-e.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/r/artboard_1_5.jpg",
+     "imgURL_url": "https://www.beautybebo.com/mamaearth-naturally-matte-lip-serum-matte-liquid-lipstick-with-vitamin-c-e.html",
      "price": 539.00
     },
     {
      "name": "nyx professional makeup butter gloss - angel food cake",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/0/800897828363_02.jpg",
-     "image_url": "https://www.beautybebo.com/nyx-professional-makeup-butter-gloss-angel-food-cake.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/0/800897828363_02.jpg",
+     "imgURL_url": "https://www.beautybebo.com/nyx-professional-makeup-butter-gloss-angel-food-cake.html",
      "price": 495.00
     },
     {
      "name": "mamaearth rose tinted 100% natural lip balm",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/7/57180618906087776895_rose__6_.jpg",
-     "image_url": "https://www.beautybebo.com/mamaearth-rose-tinted-100-natural-lip-balm.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/7/57180618906087776895_rose__6_.jpg",
+     "imgURL_url": "https://www.beautybebo.com/mamaearth-rose-tinted-100-natural-lip-balm.html",
      "price": 299.00
     },
     {
      "name": "mamaearth ubtan tinted 100% natural lip balm for lightening dark lips",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/f/2ff90618906087776918__6_.jpg",
-     "image_url": "https://www.beautybebo.com/mamaearth-ubtan-tinted-100-natural-lip-balm-for-lightening-dark-lips.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/f/2ff90618906087776918__6_.jpg",
+     "imgURL_url": "https://www.beautybebo.com/mamaearth-ubtan-tinted-100-natural-lip-balm-for-lightening-dark-lips.html",
      "price": 299.00
     },
     {
      "name": "mamaearth vitamin c tinted 100% natural lip balm for lip lightening",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/0/a0c40618906087776895_vitc__6_.jpg",
-     "image_url": "https://www.beautybebo.com/mamaearth-vitamin-c-tinted-100-natural-lip-balm-for-lip-lightening.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/0/a0c40618906087776895_vitc__6_.jpg",
+     "imgURL_url": "https://www.beautybebo.com/mamaearth-vitamin-c-tinted-100-natural-lip-balm-for-lip-lightening.html",
      "price": 299.00
     },
     {
      "name": "mamaearth cherry tinted 100% natural lip balm with cherry and coconut oil",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/4/44_2_3.jpg",
-     "image_url": "https://www.beautybebo.com/mamaearth-cherry-tinted-100-natural-lip-balm-with-cherry-and-coconut-oil.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/4/44_2_3.jpg",
+     "imgURL_url": "https://www.beautybebo.com/mamaearth-cherry-tinted-100-natural-lip-balm-with-cherry-and-coconut-oil.html",
      "price": 299.00
     },
     {
      "name": "mamaearth coco tinted 100% natural lip balm with coco and vitamin e",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/2/42_3_2.jpg",
-     "image_url": "https://www.beautybebo.com/mamaearth-coco-tinted-100-natural-lip-balm-with-coco-and-vitamin-e.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/2/42_3_2.jpg",
+     "imgURL_url": "https://www.beautybebo.com/mamaearth-coco-tinted-100-natural-lip-balm-with-coco-and-vitamin-e.html",
      "price": 299.00
     },
     {
      "name": "mamaearth rose tinted 100% natural lip balm with rose oil and castor oil",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/_/8_41_4.jpg",
-     "image_url": "https://www.beautybebo.com/mamaearth-rose-tinted-100-natural-lip-balm-with-rose-oil-and-castor-oil.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/_/8_41_4.jpg",
+     "imgURL_url": "https://www.beautybebo.com/mamaearth-rose-tinted-100-natural-lip-balm-with-rose-oil-and-castor-oil.html",
      "price": 299.00
     },
     {
      "name": "mamaearth ubtan tinted 100% natural lip balm with turmeric & saffron",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/_/5_90_3.jpg",
-     "image_url": "https://www.beautybebo.com/mamaearth-ubtan-tinted-100-natural-lip-balm-with-turmeric-saffron.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/_/5_90_3.jpg",
+     "imgURL_url": "https://www.beautybebo.com/mamaearth-ubtan-tinted-100-natural-lip-balm-with-turmeric-saffron.html",
      "price": 299.00
     },
     {
      "name": "mamaearth vitamin c tinted 100% natural lip balm with vitamin c & honey",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/0/10_26_6.jpg",
-     "image_url": "https://www.beautybebo.com/mamaearth-vitamin-c-tinted-100-natural-lip-balm-with-vitamin-c-honey.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/0/10_26_6.jpg",
+     "imgURL_url": "https://www.beautybebo.com/mamaearth-vitamin-c-tinted-100-natural-lip-balm-with-vitamin-c-honey.html",
      "price": 299.00
     },
     {
      "name": "faces canada no transfer matte lipstick",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/2/229.jpg",
-     "image_url": "https://www.beautybebo.com/faces-canada-no-transfer-matte-lipstick.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/2/229.jpg",
+     "imgURL_url": "https://www.beautybebo.com/faces-canada-no-transfer-matte-lipstick.html",
      "price": 549.00
     },
     {
      "name": "faces canada ultime pro hd intense matte lips + primer",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/8/181.jpg",
-     "image_url": "https://www.beautybebo.com/faces-canada-ultime-pro-hd-intense-matte-lips-primer.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/8/181.jpg",
+     "imgURL_url": "https://www.beautybebo.com/faces-canada-ultime-pro-hd-intense-matte-lips-primer.html",
      "price": 799.00
     },
     {
      "name": "miss claire make up palette 9924 (make up kit)",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/6/160.jpg",
-     "image_url": "https://www.beautybebo.com/miss-claire-make-up-palette-9924-make-up-kit.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/6/160.jpg",
+     "imgURL_url": "https://www.beautybebo.com/miss-claire-make-up-palette-9924-make-up-kit.html",
      "price": 1007.00
     },
     {
      "name": "miss claire make up palette 9929 (make up kit)",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/5/159.jpg",
-     "image_url": "https://www.beautybebo.com/miss-claire-make-up-palette-9929-make-up-kit.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/5/159.jpg",
+     "imgURL_url": "https://www.beautybebo.com/miss-claire-make-up-palette-9929-make-up-kit.html",
      "price": 2180.00
     },
     {
      "name": "miss claire make up palette 9910 (make up kit)",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/5/158.jpg",
-     "image_url": "https://www.beautybebo.com/miss-claire-make-up-palette-9910-make-up-kit.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/5/158.jpg",
+     "imgURL_url": "https://www.beautybebo.com/miss-claire-make-up-palette-9910-make-up-kit.html",
      "price": 1007.00
     },
     {
      "name": "miss claire make up palette 9911 (make up kit)",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/5/155.jpg",
-     "image_url": "https://www.beautybebo.com/miss-claire-make-up-palette-9911-make-up-kit.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/5/155.jpg",
+     "imgURL_url": "https://www.beautybebo.com/miss-claire-make-up-palette-9911-make-up-kit.html",
      "price": 1058.00
     },
     {
      "name": "miss claire make up palette 9954-1 (make up kit)",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/4/144.jpg",
-     "image_url": "https://www.beautybebo.com/miss-claire-make-up-palette-9954-1-make-up-kit.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/4/144.jpg",
+     "imgURL_url": "https://www.beautybebo.com/miss-claire-make-up-palette-9954-1-make-up-kit.html",
      "price": 536.00
     },
     {
      "name": "miss claire make up palette 9912 (make up kit)",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/4/143.jpg",
-     "image_url": "https://www.beautybebo.com/miss-claire-make-up-palette-9912-make-up-kit.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/4/143.jpg",
+     "imgURL_url": "https://www.beautybebo.com/miss-claire-make-up-palette-9912-make-up-kit.html",
      "price": 1007.00
     },
     {
      "name": "miss claire make up palette 9942 (make up kit)",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/3/139.jpg",
-     "image_url": "https://www.beautybebo.com/miss-claire-make-up-palette-9942-make-up-kit.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/3/139.jpg",
+     "imgURL_url": "https://www.beautybebo.com/miss-claire-make-up-palette-9942-make-up-kit.html",
      "price": 966.00
     },
     {
      "name": "miss claire make up palette 9954-2 (make up kit)",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/3/138.jpg",
-     "image_url": "https://www.beautybebo.com/miss-claire-make-up-palette-9954-2-make-up-kit.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/3/138.jpg",
+     "imgURL_url": "https://www.beautybebo.com/miss-claire-make-up-palette-9954-2-make-up-kit.html",
      "price": 536.00
     },
     {
      "name": "miss claire prestige lip & eye makeup remover",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/1/112_1_1.jpg",
-     "image_url": "https://www.beautybebo.com/miss-claire-prestige-lip-eye-makeup-remover.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/1/112_1_1.jpg",
+     "imgURL_url": "https://www.beautybebo.com/miss-claire-prestige-lip-eye-makeup-remover.html",
      "price": 563.00
     },
     {
      "name": "miss claire make up palette 9932 (make up kit)",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/1/1111_1_1.jpg",
-     "image_url": "https://www.beautybebo.com/miss-claire-make-up-palette-9932-make-up-kit.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/1/1111_1_1.jpg",
+     "imgURL_url": "https://www.beautybebo.com/miss-claire-make-up-palette-9932-make-up-kit.html",
      "price": 685.00
     },
     {
      "name": "miss claire make up palette 9909 (make up kit)",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/1/110.jpg",
-     "image_url": "https://www.beautybebo.com/miss-claire-make-up-palette-9909-make-up-kit.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/1/110.jpg",
+     "imgURL_url": "https://www.beautybebo.com/miss-claire-make-up-palette-9909-make-up-kit.html",
      "price": 1007.00
     },
     {
      "name": "miss claire make up palette 9925 (make up kit)",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/0/108.jpg",
-     "image_url": "https://www.beautybebo.com/miss-claire-make-up-palette-9925-make-up-kit.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/0/108.jpg",
+     "imgURL_url": "https://www.beautybebo.com/miss-claire-make-up-palette-9925-make-up-kit.html",
      "price": 639.00
     },
     {
      "name": "miss claire make up palette 9941 (make up kit)",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/8/98.jpg",
-     "image_url": "https://www.beautybebo.com/miss-claire-make-up-palette-9941-make-up-kit.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/8/98.jpg",
+     "imgURL_url": "https://www.beautybebo.com/miss-claire-make-up-palette-9941-make-up-kit.html",
      "price": 735.00
     },
     {
      "name": "miss claire make up palette 9933 (make up kit)",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/3/93_1_1.jpg",
-     "image_url": "https://www.beautybebo.com/miss-claire-make-up-palette-9933-make-up-kit.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/3/93_1_1.jpg",
+     "imgURL_url": "https://www.beautybebo.com/miss-claire-make-up-palette-9933-make-up-kit.html",
      "price": 1895.00
     },
     {
      "name": "miss claire make up palette 9930 (make up kit)",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/0/90.jpg",
-     "image_url": "https://www.beautybebo.com/miss-claire-make-up-palette-9930-make-up-kit.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/0/90.jpg",
+     "imgURL_url": "https://www.beautybebo.com/miss-claire-make-up-palette-9930-make-up-kit.html",
      "price": 2114.00
     },
     {
      "name": "miss claire make up palette 9922 (make up kit)",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/8/88.jpg",
-     "image_url": "https://www.beautybebo.com/miss-claire-make-up-palette-9922-make-up-kit.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/8/88.jpg",
+     "imgURL_url": "https://www.beautybebo.com/miss-claire-make-up-palette-9922-make-up-kit.html",
      "price": 1663.00
     },
     {
      "name": "blue heaven naughty color lip balm (watermelon) - pack of 4",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/u/n/untitled-1_1.jpg",
-     "image_url": "https://www.beautybebo.com/blue-heaven-naughty-color-lip-balm-watermelon-pack-of-4-(4.5gm-each).html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/u/n/untitled-1_1.jpg",
+     "imgURL_url": "https://www.beautybebo.com/blue-heaven-naughty-color-lip-balm-watermelon-pack-of-4-(4.5gm-each).html",
      "price": 234.00
     },
     {
      "name": "blue heaven naughty color lip balm (orange) - pack of 4",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/u/n/untitled-1_copy_1_1.jpg",
-     "image_url": "https://www.beautybebo.com/blue-heaven-naughty-color-lip-balm-orange-pack-of-4-(4.5-gm-each).html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/u/n/untitled-1_copy_1_1.jpg",
+     "imgURL_url": "https://www.beautybebo.com/blue-heaven-naughty-color-lip-balm-orange-pack-of-4-(4.5-gm-each).html",
      "price": 234.00
     },
     {
      "name": "blue heaven make-up blender sponge -pack of 2",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/0/8/08.jpeg",
-     "image_url": "https://www.beautybebo.com/blue-heaven-make-up-blender-sponge-pack-of-2.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/0/8/08.jpeg",
+     "imgURL_url": "https://www.beautybebo.com/blue-heaven-make-up-blender-sponge-pack-of-2.html",
      "price": 270.00
     },
     {
      "name": "blue heaven naughty color lip balm (bubble gum) - pack of 4",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/u/n/untitled-1_copy_1.jpg",
-     "image_url": "https://www.beautybebo.com/blue-heaven-naughty-color-lip-balm-bubble-gum-pack-of-4.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/u/n/untitled-1_copy_1.jpg",
+     "imgURL_url": "https://www.beautybebo.com/blue-heaven-naughty-color-lip-balm-bubble-gum-pack-of-4.html",
      "price": 234.00
     },
     {
      "name": "colorbar lip prime & care",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/c/o/col13.jpg",
-     "image_url": "https://www.beautybebo.com/colorbar-lip-prime-care.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/c/o/col13.jpg",
+     "imgURL_url": "https://www.beautybebo.com/colorbar-lip-prime-care.html",
      "price": 630.00
     },
     {
      "name": "swiss beauty lip scrub",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/s/w/sw40.jpg",
-     "image_url": "https://www.beautybebo.com/swiss-beauty-lip-scrub.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/s/w/sw40.jpg",
+     "imgURL_url": "https://www.beautybebo.com/swiss-beauty-lip-scrub.html",
      "price": 249.00
     },
     {
      "name": "swiss beauty all about lips palette - 02",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/_/6_87_3.jpg",
-     "image_url": "https://www.beautybebo.com/swiss-beauty-all-about-lips-palette-02.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/_/6_87_3.jpg",
+     "imgURL_url": "https://www.beautybebo.com/swiss-beauty-all-about-lips-palette-02.html",
      "price": 349.00
     },
     {
      "name": "swiss beauty matte lip palette - shade 03",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/s/w/sw19.jpg",
-     "image_url": "https://www.beautybebo.com/swiss-beauty-matte-lip-palette-shade-03.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/s/w/sw19.jpg",
+     "imgURL_url": "https://www.beautybebo.com/swiss-beauty-matte-lip-palette-shade-03.html",
      "price": 349.00
     },
     {
      "name": "swiss beauty all about lips palette - 01",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/_/4_98_7.jpg",
-     "image_url": "https://www.beautybebo.com/swiss-beauty-all-about-lips-palette-01.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/_/4_98_7.jpg",
+     "imgURL_url": "https://www.beautybebo.com/swiss-beauty-all-about-lips-palette-01.html",
      "price": 349.00
     },
     {
      "name": "maybelline new york baby lips color balm spf 20 - berry crush",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/r/errr.jpg",
-     "image_url": "https://www.beautybebo.com/maybelline-new-york-baby-lips-color-balm-spf-20-berry-crush.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/r/errr.jpg",
+     "imgURL_url": "https://www.beautybebo.com/maybelline-new-york-baby-lips-color-balm-spf-20-berry-crush.html",
      "price": 175.00
     },
     {
      "name": "bioderma atoderm intensive baume",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/1/b13.jpg",
-     "image_url": "https://www.beautybebo.com/bioderma-atoderm-intensive-baume.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/1/b13.jpg",
+     "imgURL_url": "https://www.beautybebo.com/bioderma-atoderm-intensive-baume.html",
      "price": 715.00
     },
     {
      "name": "vega lip filler brush (pb-05)",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/1/v156.jpg",
-     "image_url": "https://www.beautybebo.com/vega-lip-filler-brush-pb-05.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/1/v156.jpg",
+     "imgURL_url": "https://www.beautybebo.com/vega-lip-filler-brush-pb-05.html",
      "price": 335.00
     },
     {
      "name": "mamaearth natural lip balm with shea butter & strawberry",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/m/m/mmm234.jpg",
-     "image_url": "https://www.beautybebo.com/mamaearth-natural-lip-balm-with-shea-butter-strawberry.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/m/m/mmm234.jpg",
+     "imgURL_url": "https://www.beautybebo.com/mamaearth-natural-lip-balm-with-shea-butter-strawberry.html",
      "price": 150.00
     },
     {
      "name": "mamaearth natural baby lip balm for babies with coconut oil, cocoa butter & orange",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/m/m/mmm232.jpg",
-     "image_url": "https://www.beautybebo.com/mamaearth-natural-baby-lip-balm-for-babies-with-coconut-oil-cocoa-butter-orange.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/m/m/mmm232.jpg",
+     "imgURL_url": "https://www.beautybebo.com/mamaearth-natural-baby-lip-balm-for-babies-with-coconut-oil-cocoa-butter-orange.html",
      "price": 150.00
     }
    ],
    "nails": [
     {
      "name": "miss claire make up palette 9932 (make up kit)",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/1/1111_1_1.jpg",
-     "image_url": "https://www.beautybebo.com/miss-claire-make-up-palette-9932-make-up-kit.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/1/1111_1_1.jpg",
+     "imgURL_url": "https://www.beautybebo.com/miss-claire-make-up-palette-9932-make-up-kit.html",
      "price": 685.00
     },
     {
      "name": "colorbar ultimate nail enamel remover - orange chocolate",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/c/2/c25.jpg",
-     "image_url": "https://www.beautybebo.com/colorbar-ultimate-nail-enamel-remover-orange-chocolate.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/c/2/c25.jpg",
+     "imgURL_url": "https://www.beautybebo.com/colorbar-ultimate-nail-enamel-remover-orange-chocolate.html"
     },
     {
      "name": "colorbar ultimate nail enamel remover - dark chocolate",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/c/o/col9.jpg",
-     "image_url": "https://www.beautybebo.com/colorbar-ultimate-nail-enamel-remover-dark-chocolate.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/c/o/col9.jpg",
+     "imgURL_url": "https://www.beautybebo.com/colorbar-ultimate-nail-enamel-remover-dark-chocolate.html",
      "price": 225.00
     },
     {
      "name": "faces canada nail enamel remover -pack of 2",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/6/f65.jpg",
-     "image_url": "https://www.beautybebo.com/faces-canada-nail-enamel-remover-pack-of-2.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/6/f65.jpg",
+     "imgURL_url": "https://www.beautybebo.com/faces-canada-nail-enamel-remover-pack-of-2.html"
     },
     {
      "name": "beeone manicure and pedicure kit 300 gms",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be150.jpg",
-     "image_url": "https://www.beautybebo.com/beeone-manicure-and-pedicure-kit-300-gms.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be150.jpg",
+     "imgURL_url": "https://www.beautybebo.com/beeone-manicure-and-pedicure-kit-300-gms.html",
      "price": 553.00
     },
     {
      "name": "beeone manicure and pedicure kit 1040 gms",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be149.jpg",
-     "image_url": "https://www.beautybebo.com/beeone-manicure-and-pedicure-kit-1040-gms.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be149.jpg",
+     "imgURL_url": "https://www.beautybebo.com/beeone-manicure-and-pedicure-kit-1040-gms.html",
      "price": 1260.00
     },
     {
      "name": "beeone manicure and pedicure kit 110 gms",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be148.jpg",
-     "image_url": "https://www.beautybebo.com/beeone-manicure-and-pedicure-kit-110-gms.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be148.jpg",
+     "imgURL_url": "https://www.beautybebo.com/beeone-manicure-and-pedicure-kit-110-gms.html",
      "price": 260.00
     },
     {
      "name": "vega manicure set (colour may vary) (ms-08)",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/5/v54.jpg",
-     "image_url": "https://www.beautybebo.com/vega-manicure-set-colour-may-vary-ms-08.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/5/v54.jpg",
+     "imgURL_url": "https://www.beautybebo.com/vega-manicure-set-colour-may-vary-ms-08.html"
     },
     {
      "name": "faces canada pack of 4 nail paint gift box combo",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/b/bbj0001914-1.jpg",
-     "image_url": "https://www.beautybebo.com/faces-canada-pack-of-4-nail-paint-gift-box-combo.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/b/bbj0001914-1.jpg",
+     "imgURL_url": "https://www.beautybebo.com/faces-canada-pack-of-4-nail-paint-gift-box-combo.html",
      "price": 270.00
     },
     {
      "name": "lakme 9 to 5 primer + gloss nail colour",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/c/h/cherry_red-3.jpg",
-     "image_url": "https://www.beautybebo.com/lakme-9-to-5-primer-gloss-nail-colour.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/c/h/cherry_red-3.jpg",
+     "imgURL_url": "https://www.beautybebo.com/lakme-9-to-5-primer-gloss-nail-colour.html"
     },
     {
      "name": "vega manicure sets of 6 tools ms-06",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/b/bbj0001566-1_1.jpg",
-     "image_url": "https://www.beautybebo.com/vega-manicure-sets-of-6-tools-ms-06.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/b/bbj0001566-1_1.jpg",
+     "imgURL_url": "https://www.beautybebo.com/vega-manicure-sets-of-6-tools-ms-06.html",
      "price": 521.00
     },
     {
      "name": "l'oreal paris color riche a l'huile nail paint",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/4/440_cherie_macaron.jpg",
-     "image_url": "https://www.beautybebo.com/l-oreal-paris-color-riche-a-l-huile-nail-paint.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/4/440_cherie_macaron.jpg",
+     "imgURL_url": "https://www.beautybebo.com/l-oreal-paris-color-riche-a-l-huile-nail-paint.html"
     },
     {
      "name": "lakme 9 to 5 primer + gloss nail color",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/berry_business-2_1_1.jpg",
-     "image_url": "https://www.beautybebo.com/lakme-9-to-5-primer-gloss-nail-color.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/berry_business-2_1_1.jpg",
+     "imgURL_url": "https://www.beautybebo.com/lakme-9-to-5-primer-gloss-nail-color.html"
     },
     {
      "name": "blue heaven, nail enamel remover - pack of 4",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/u/n/untitled-1_copy_3.jpg",
-     "image_url": "https://www.beautybebo.com/blue-heaven-nail-enamel-remover-pack-of-4.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/u/n/untitled-1_copy_3.jpg",
+     "imgURL_url": "https://www.beautybebo.com/blue-heaven-nail-enamel-remover-pack-of-4.html",
      "price": 234.00
     },
     {
      "name": "blue heaven enamel nail paint thinner (pack of 3)",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/s/e/selection.jpg",
-     "image_url": "https://www.beautybebo.com/blue-heaven-enamel-nail-paint-remover-pack-of-3.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/s/e/selection.jpg",
+     "imgURL_url": "https://www.beautybebo.com/blue-heaven-enamel-nail-paint-remover-pack-of-3.html"
     },
     {
      "name": "blue heaven enamel nail paint remover (pack of 4)",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/u/n/unnamed.jpg",
-     "image_url": "https://www.beautybebo.com/blue-heaven-enamel-nail-paint-remover.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/u/n/unnamed.jpg",
+     "imgURL_url": "https://www.beautybebo.com/blue-heaven-enamel-nail-paint-remover.html"
     },
     {
      "name": "blue heaven nail polish remover with vitamin e & nail conditioner - pack of 4",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/u/n/untitled-1_copy_4.jpg",
-     "image_url": "https://www.beautybebo.com/blue-heaven-nail-polish-remover-with-vitamin-e-nail-conditioner-pack-of-4.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/u/n/untitled-1_copy_4.jpg",
+     "imgURL_url": "https://www.beautybebo.com/blue-heaven-nail-polish-remover-with-vitamin-e-nail-conditioner-pack-of-4.html",
      "price": 324.00
     },
     {
      "name": "blue heaven dip & twist nail paint remover",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/f/ffff_1.jpg",
-     "image_url": "https://www.beautybebo.com/blue-heaven-dip-twist-nail-paint-remover.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/f/ffff_1.jpg",
+     "imgURL_url": "https://www.beautybebo.com/blue-heaven-dip-twist-nail-paint-remover.html",
      "price": 49.00
     },
     {
      "name": "faces canada nail lacquer kit - cocktail collection",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/c/o/cocktail_collection_2.jpg",
-     "image_url": "https://www.beautybebo.com/faces-canada-nail-lacquer-kit-cocktail-collection.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/c/o/cocktail_collection_2.jpg",
+     "imgURL_url": "https://www.beautybebo.com/faces-canada-nail-lacquer-kit-cocktail-collection.html",
      "price": 367.00
     },
     {
      "name": "faces canada nail lacquer kit - love struck collection",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/l/o/love_struck_collection.jpg",
-     "image_url": "https://www.beautybebo.com/faces-canada-nail-lacquer-kit-love-struck-collection.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/l/o/love_struck_collection.jpg",
+     "imgURL_url": "https://www.beautybebo.com/faces-canada-nail-lacquer-kit-love-struck-collection.html",
      "price": 379.00
     },
     {
      "name": "faces canada nail care combo",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/a/faces_canada_nail_care_combo.jpg",
-     "image_url": "https://www.beautybebo.com/faces-canada-nail-care-combo.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/a/faces_canada_nail_care_combo.jpg",
+     "imgURL_url": "https://www.beautybebo.com/faces-canada-nail-care-combo.html",
      "price": 275.00
     },
     {
      "name": "miss claire french manicure (pack of 4)",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/1/11_17_1.jpg",
-     "image_url": "https://www.beautybebo.com/miss-claire-french-manicure-pack-of-4.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/1/11_17_1.jpg",
+     "imgURL_url": "https://www.beautybebo.com/miss-claire-french-manicure-pack-of-4.html",
      "price": 373.00
     },
     {
      "name": "colorbar flower shot nail & cuticle oil - iron woman for strength & growth pink",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/_/1_50.jpg",
-     "image_url": "https://www.beautybebo.com/colorbar-flower-shot-nail-cuticle-oil-iron-woman-for-strength-growth-pink.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/_/1_50.jpg",
+     "imgURL_url": "https://www.beautybebo.com/colorbar-flower-shot-nail-cuticle-oil-iron-woman-for-strength-growth-pink.html",
      "price": 298.00
     },
     {
      "name": "colorbar magic mirror kit",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/_/1_49.jpg",
-     "image_url": "https://www.beautybebo.com/colorbar-magic-mirror-kit.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/_/1_49.jpg",
+     "imgURL_url": "https://www.beautybebo.com/colorbar-magic-mirror-kit.html",
      "price": 572.00
     },
     {
      "name": "faces canada ultime pro uv top coat flash dry & colour lock",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/_/1_47.jpg",
-     "image_url": "https://www.beautybebo.com/faces-canada-ultime-pro-uv-top-coat-flash-dry-colour-lock.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/_/1_47.jpg",
+     "imgURL_url": "https://www.beautybebo.com/faces-canada-ultime-pro-uv-top-coat-flash-dry-colour-lock.html",
      "price": 310.00
     },
     {
      "name": "mamaearth castor oil 100% pure cold pressed for skin, hair & nails",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/s/k/skin_hair_nails2.jpg",
-     "image_url": "https://www.beautybebo.com/mamaearth-castor-oil-100-pure-cold-pressed-for-skin-hair-nails.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/s/k/skin_hair_nails2.jpg",
+     "imgURL_url": "https://www.beautybebo.com/mamaearth-castor-oil-100-pure-cold-pressed-for-skin-hair-nails.html"
     },
     {
      "name": "maybelline new york color jolt matte",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/s/s/sssssss.jpg",
-     "image_url": "https://www.beautybebo.com/maybelline-new-york-color-jolt-matte.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/s/s/sssssss.jpg",
+     "imgURL_url": "https://www.beautybebo.com/maybelline-new-york-color-jolt-matte.html",
      "price": 360.00
     },
     {
      "name": "lakme absolute gel stylist nail color",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/5/350.jpg",
-     "image_url": "https://www.beautybebo.com/lakme-absolute-gel-stylist-nail-color.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/5/350.jpg",
+     "imgURL_url": "https://www.beautybebo.com/lakme-absolute-gel-stylist-nail-color.html"
     },
     {
      "name": "lakme 9to5 primer + matte nail color",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/2/22_15_5.jpg",
-     "image_url": "https://www.beautybebo.com/lakme-9to5-primer-matte-nail-color.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/2/22_15_5.jpg",
+     "imgURL_url": "https://www.beautybebo.com/lakme-9to5-primer-matte-nail-color.html"
     },
     {
      "name": "lakme 9to5 long wear nail color",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/n/1nail_color.jpg",
-     "image_url": "https://www.beautybebo.com/lakme-9to5-long-wear-nail-color.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/n/1nail_color.jpg",
+     "imgURL_url": "https://www.beautybebo.com/lakme-9to5-long-wear-nail-color.html",
      "price": 187.00
     },
     {
      "name": "miss claire 100 nail tips",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/_/1_46.jpg",
-     "image_url": "https://www.beautybebo.com/miss-claire-100-nail-tips.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/_/1_46.jpg",
+     "imgURL_url": "https://www.beautybebo.com/miss-claire-100-nail-tips.html"
     }
    ],
    "skin": [
     {
     "name": "wow skin science caffeine face serum",
-    "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/6/3699c478906105612174-2.jpg",
-    "image_url": "https://www.beautybebo.com/wow-skin-science-caffeine-face-serum.html",
+    "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/6/3699c478906105612174-2.jpg",
+    "imgURL_url": "https://www.beautybebo.com/wow-skin-science-caffeine-face-serum.html",
     "price": 515.00
    },
    {
     "name": "wow skin science activated charcoal face scrub",
-    "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904304651284_1.jpg",
-    "image_url": "https://www.beautybebo.com/wow-skin-science-activated-charcoal-face-scrub.html"
+    "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904304651284_1.jpg",
+    "imgURL_url": "https://www.beautybebo.com/wow-skin-science-activated-charcoal-face-scrub.html"
    },
    {
     "name": "wow skin science activated charcoal face mask",
-    "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/c/activated_charcoal_face_mask2.jpg",
-    "image_url": "https://www.beautybebo.com/wow-skin-science-activated-charcoal-face-mask.html",
+    "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/c/activated_charcoal_face_mask2.jpg",
+    "imgURL_url": "https://www.beautybebo.com/wow-skin-science-activated-charcoal-face-mask.html",
     "price": 435.00
    },
    {
     "name": "lotus organics+ bakuchiol plant retinol miracle facial oil",
-    "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/0/f0c4f25lotus00000014.jpg",
-    "image_url": "https://www.beautybebo.com/lotus-organics-bakuchiol-plant-retinol-miracle-facial-oil.html",
+    "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/0/f0c4f25lotus00000014.jpg",
+    "imgURL_url": "https://www.beautybebo.com/lotus-organics-bakuchiol-plant-retinol-miracle-facial-oil.html",
     "price": 896.00
    },
    {
     "name": "organic harvest masseuscious damage control cleanser with acai berry",
-    "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/3/53f7f568906080030383_rvn1.jpg",
-    "image_url": "https://www.beautybebo.com/organic-harvest-masseuscious-damage-control-cleanser-with-acai-berry.html",
+    "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/3/53f7f568906080030383_rvn1.jpg",
+    "imgURL_url": "https://www.beautybebo.com/organic-harvest-masseuscious-damage-control-cleanser-with-acai-berry.html",
     "price": 1420.00
    },
    {
     "name": "wow skin science am2pm sunscreen spf 50 lotion",
-    "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311901495_1_1_.jpg",
-    "image_url": "https://www.beautybebo.com/wow-skin-science-am2pm-sunscreen-spf-50-lotion.html"
+    "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311901495_1_1_.jpg",
+    "imgURL_url": "https://www.beautybebo.com/wow-skin-science-am2pm-sunscreen-spf-50-lotion.html"
    },
    {
     "name": "wow skin science activated charcoal peel off face mask",
-    "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/d/fd794d08904304373124.jpg",
-    "image_url": "https://www.beautybebo.com/wow-skin-science-activated-charcoal-peel-off-face-mask.html"
+    "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/d/fd794d08904304373124.jpg",
+    "imgURL_url": "https://www.beautybebo.com/wow-skin-science-activated-charcoal-peel-off-face-mask.html"
    },
    {
     "name": "mamaearth flowers of youth essence serum with hyaluronic acid & hibiscus for youthful skin",
-    "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/l/flowers-of-youth-essence-serum_2_1.jpg",
-    "image_url": "https://www.beautybebo.com/mamaearth-flowers-of-youth-essence-serum-with-hyaluronic-acid-hibiscus-for-youthful-skin.html"
+    "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/l/flowers-of-youth-essence-serum_2_1.jpg",
+    "imgURL_url": "https://www.beautybebo.com/mamaearth-flowers-of-youth-essence-serum-with-hyaluronic-acid-hibiscus-for-youthful-skin.html"
    },
    {
     "name": "biotique advanced organics tea tree treament oil essential oil for face",
-    "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/b/7ba61598904352001284_1.jpg",
-    "image_url": "https://www.beautybebo.com/biotique-advanced-organics-tea-tree-treament-oil-essential-oil-for-face.html",
+    "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/b/7ba61598904352001284_1.jpg",
+    "imgURL_url": "https://www.beautybebo.com/biotique-advanced-organics-tea-tree-treament-oil-essential-oil-for-face.html",
     "price": 504.00
    },
    {
     "name": "wow skin science kids cool-the-rays sunscreen cream - spf 30+ pa+++",
-    "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311901631_1.jpg",
-    "image_url": "https://www.beautybebo.com/wow-skin-science-kids-cool-the-rays-sunscreen-cream-spf-30-pa.html"
+    "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311901631_1.jpg",
+    "imgURL_url": "https://www.beautybebo.com/wow-skin-science-kids-cool-the-rays-sunscreen-cream-spf-30-pa.html"
    },
    {
     "name": "wow skin science raw african shea body butter",
-    "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/e/3eb5e308904311902874_1.jpg",
-    "image_url": "https://www.beautybebo.com/wow-skin-science-raw-african-shea-body-butter.html",
+    "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/e/3eb5e308904311902874_1.jpg",
+    "imgURL_url": "https://www.beautybebo.com/wow-skin-science-raw-african-shea-body-butter.html",
     "price": 440.00
    },
    {
     "name": "wow skin science apple cider vinegar face wash bottle",
-    "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/5/759639c8904311903499__1_.jpg",
-    "image_url": "https://www.beautybebo.com/wow-skin-science-apple-cider-vinegar-face-wash-bottle.html"
+    "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/5/759639c8904311903499__1_.jpg",
+    "imgURL_url": "https://www.beautybebo.com/wow-skin-science-apple-cider-vinegar-face-wash-bottle.html"
    },
    {
     "name": "wow skin science hyaluronic acid face serum",
-    "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/a/aae1c478906105612136-2.jpg",
-    "image_url": "https://www.beautybebo.com/wow-skin-science-hyaluronic-acid-face-serum.html",
+    "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/a/aae1c478906105612136-2.jpg",
+    "imgURL_url": "https://www.beautybebo.com/wow-skin-science-hyaluronic-acid-face-serum.html",
     "price": 630.00
    },
    {
     "name": "wow skin science aloe vera multi-vitamin face cream",
-    "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/0/70bf0be8904311901860_1.jpg",
-    "image_url": "https://www.beautybebo.com/wow-skin-science-aloe-vera-multi-vitamin-face-cream.html",
+    "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/0/70bf0be8904311901860_1.jpg",
+    "imgURL_url": "https://www.beautybebo.com/wow-skin-science-aloe-vera-multi-vitamin-face-cream.html",
     "price": 540.00
    },
    {
     "name": "wow skin science ubtan face serum",
-    "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/e/ee32c478906105612372-2.jpg",
-    "image_url": "https://www.beautybebo.com/wow-skin-science-ubtan-face-serum.html",
+    "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/e/ee32c478906105612372-2.jpg",
+    "imgURL_url": "https://www.beautybebo.com/wow-skin-science-ubtan-face-serum.html",
     "price": 540.00
    },
    {
     "name": "wow skin science himalayan rose foaming face wash with built-in face brush with 50% extra",
-    "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/d/8d895398904311905103__5_.jpg",
-    "image_url": "https://www.beautybebo.com/wow-skin-science-himalayan-rose-foaming-face-wash-with-built-in-face-brush-with-50-extra.html",
+    "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/d/8d895398904311905103__5_.jpg",
+    "imgURL_url": "https://www.beautybebo.com/wow-skin-science-himalayan-rose-foaming-face-wash-with-built-in-face-brush-with-50-extra.html",
     "price": 391.00
    },
    {
     "name": "wow skin science green tea face moisturizer",
-    "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/1/61a4f818904311904076_1.jpg",
-    "image_url": "https://www.beautybebo.com/wow-skin-science-green-tea-face-moisturizer.html"
+    "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/1/61a4f818904311904076_1.jpg",
+    "imgURL_url": "https://www.beautybebo.com/wow-skin-science-green-tea-face-moisturizer.html"
    },
    {
     "name": "wow skin science pink rose clay face mask",
-    "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/2/b2917c28904311900818-_2_.jpg",
-    "image_url": "https://www.beautybebo.com/wow-skin-science-pink-rose-clay-face-mask.html",
+    "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/2/b2917c28904311900818-_2_.jpg",
+    "imgURL_url": "https://www.beautybebo.com/wow-skin-science-pink-rose-clay-face-mask.html",
     "price": 449.00
    },
    {
     "name": "wow skin science ubtan face wash bottle",
-    "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/3/232439c8904311903550__1_.jpg",
-    "image_url": "https://www.beautybebo.com/wow-skin-science-ubtan-face-wash-bottle.html"
+    "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/3/232439c8904311903550__1_.jpg",
+    "imgURL_url": "https://www.beautybebo.com/wow-skin-science-ubtan-face-wash-bottle.html"
    },
    {
     "name": "wow skin science uv water transparent sunscreen spray spf 30",
-    "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311901587_1__1.jpg",
-    "image_url": "https://www.beautybebo.com/wow-skin-science-uv-water-transparent-sunscreen-spray-spf-30.html"
+    "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311901587_1__1.jpg",
+    "imgURL_url": "https://www.beautybebo.com/wow-skin-science-uv-water-transparent-sunscreen-spray-spf-30.html"
    },
    {
     "name": "wow skin science himalayan rose body lotion",
-    "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/b/9b82c478906105611962-2.jpg",
-    "image_url": "https://www.beautybebo.com/wow-skin-science-himalayan-rose-body-lotion.html"
+    "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/b/9b82c478906105611962-2.jpg",
+    "imgURL_url": "https://www.beautybebo.com/wow-skin-science-himalayan-rose-body-lotion.html"
    },
    {
     "name": "wow skin science aloe vera body lotion ultra light hydration - no mineral oil, parabens",
-    "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/0/a093c478906105615038-2.jpg",
-    "image_url": "https://www.beautybebo.com/wow-skin-science-aloe-vera-body-lotion-ultra-light-hydration-no-mineral-oil-parabens.html"
+    "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/0/a093c478906105615038-2.jpg",
+    "imgURL_url": "https://www.beautybebo.com/wow-skin-science-aloe-vera-body-lotion-ultra-light-hydration-no-mineral-oil-parabens.html"
    },
    {
     "name": "lotus organics+ bakuchiol plant retinol super serum",
-    "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/3/83cff25lotus00000011.jpg",
-    "image_url": "https://www.beautybebo.com/lotus-organics-bakuchiol-plant-retinol-super-serum.html",
+    "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/3/83cff25lotus00000011.jpg",
+    "imgURL_url": "https://www.beautybebo.com/lotus-organics-bakuchiol-plant-retinol-super-serum.html",
     "price": 986.00
    },
    {
     "name": "joy calming stress relief & relaxing lavender body serum lotion",
-    "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/b/5b9d6c8joyxx00000028_n1.jpg",
-    "image_url": "https://www.beautybebo.com/joy-calming-stress-relief-relaxing-lavender-body-serum-lotion.html"
+    "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/b/5b9d6c8joyxx00000028_n1.jpg",
+    "imgURL_url": "https://www.beautybebo.com/joy-calming-stress-relief-relaxing-lavender-body-serum-lotion.html"
    },
    {
     "name": "joy natural indulgent & pampering rose body serum lotion",
-    "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/9/d9ec6c8joyxx00000038_n1.jpg",
-    "image_url": "https://www.beautybebo.com/joy-natural-indulgent-pampering-rose-body-serum-lotion.html"
+    "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/9/d9ec6c8joyxx00000038_n1.jpg",
+    "imgURL_url": "https://www.beautybebo.com/joy-natural-indulgent-pampering-rose-body-serum-lotion.html"
    },
    {
     "name": "joy relaxing refreshing & hydrating green tea body serum lotion",
-    "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/d/8d9c6c8joyxx00000027_n1.jpg",
-    "image_url": "https://www.beautybebo.com/joy-relaxing-refreshing-hydrating-green-tea-body-serum-lotion.html"
+    "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/d/8d9c6c8joyxx00000027_n1.jpg",
+    "imgURL_url": "https://www.beautybebo.com/joy-relaxing-refreshing-hydrating-green-tea-body-serum-lotion.html"
    },
    {
     "name": "joy vitamin c glow reviving & skin brightening gel for face & body",
-    "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/3/731c6c8joyxx00000009_n1.jpg",
-    "image_url": "https://www.beautybebo.com/joy-vitamin-c-glow-reviving-skin-brightening-gel-for-face-body.html"
+    "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/3/731c6c8joyxx00000009_n1.jpg",
+    "imgURL_url": "https://www.beautybebo.com/joy-vitamin-c-glow-reviving-skin-brightening-gel-for-face-body.html"
    },
    {
     "name": "joy revivify activated charcoal deep detoxifying & purifying mask",
-    "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/4/e4236c8joyxx00000024_n1.jpg",
-    "image_url": "https://www.beautybebo.com/joy-revivify-activated-charcoal-deep-detoxifying-purifying-mask.html"
+    "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/4/e4236c8joyxx00000024_n1.jpg",
+    "imgURL_url": "https://www.beautybebo.com/joy-revivify-activated-charcoal-deep-detoxifying-purifying-mask.html"
    },
    {
     "name": "joy revivify green clay mask pore clarifying & pollution defense mask",
-    "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/a/2abe6c8joyxx00000023_n1.jpg",
-    "image_url": "https://www.beautybebo.com/joy-revivify-green-clay-mask-pore-clarifying-pollution-defense-mask.html"
+    "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/a/2abe6c8joyxx00000023_n1.jpg",
+    "imgURL_url": "https://www.beautybebo.com/joy-revivify-green-clay-mask-pore-clarifying-pollution-defense-mask.html"
    },
    {
     "name": "loreal paris revitalift anti wrinkle + radiance eye cream",
-    "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/6/76bdacd8992304017810_0.jpg",
-    "image_url": "https://www.beautybebo.com/loreal-paris-revitalift-anti-wrinkle-radiance-eye-cream.html",
+    "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/6/76bdacd8992304017810_0.jpg",
+    "imgURL_url": "https://www.beautybebo.com/loreal-paris-revitalift-anti-wrinkle-radiance-eye-cream.html",
     "price": 515.00
    },
    {
     "name": "l'oreal paris revitalift hyaluronic acid plumping day cream",
-    "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/1/511e948lorea00000092_2.jpg",
-    "image_url": "https://www.beautybebo.com/l-oreal-paris-revitalift-hyaluronic-acid-plumping-day-cream.html",
+    "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/1/511e948lorea00000092_2.jpg",
+    "imgURL_url": "https://www.beautybebo.com/l-oreal-paris-revitalift-hyaluronic-acid-plumping-day-cream.html",
     "price": 464.00
    },
    {
     "name": "nivea body lotion for normal skin, express hydration, for fast absorption",
-    "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/8/583d5ae4005808353149new.jpg",
-    "image_url": "https://www.beautybebo.com/nivea-body-lotion-for-normal-skin-express-hydration-for-fast-absorption.html",
+    "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/8/583d5ae4005808353149new.jpg",
+    "imgURL_url": "https://www.beautybebo.com/nivea-body-lotion-for-normal-skin-express-hydration-for-fast-absorption.html",
     "price": 367.00
    },
    {
     "name": "organic harvest vitamin b organic face serum with spinach & niacinamide",
-    "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/5/a5c9a458906080039225_1.jpg",
-    "image_url": "https://www.beautybebo.com/organic-harvest-vitamin-b-organic-face-serum-with-spinach-niacinamide.html",
+    "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/5/a5c9a458906080039225_1.jpg",
+    "imgURL_url": "https://www.beautybebo.com/organic-harvest-vitamin-b-organic-face-serum-with-spinach-niacinamide.html",
     "price": 731.00
    },
    {
     "name": "joy revivify hyaluronic + hydra boosting intensive repair ultimate hydrating serum",
-    "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/a/8ada0a1joyxx00000032_2.jpg",
-    "image_url": "https://www.beautybebo.com/joy-revivify-hyaluronic-hydra-boosting-intensive-repair-ultimate-hydrating-serum.html",
+    "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/a/8ada0a1joyxx00000032_2.jpg",
+    "imgURL_url": "https://www.beautybebo.com/joy-revivify-hyaluronic-hydra-boosting-intensive-repair-ultimate-hydrating-serum.html",
     "price": 315.00
    },
    {
     "name": "joy revivify retinol + eternal youth age defying skin firming serum",
-    "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/c/acf40a1joyxx00000031_2.jpg",
-    "image_url": "https://www.beautybebo.com/joy-revivify-retinol-eternal-youth-age-defying-skin-firming-serum.html",
+    "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/c/acf40a1joyxx00000031_2.jpg",
+    "imgURL_url": "https://www.beautybebo.com/joy-revivify-retinol-eternal-youth-age-defying-skin-firming-serum.html",
     "price": 315.00
    },
    {
     "name": "joy revivify aha + bha glow revealing even tone skin refiling serum",
-    "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/c/fcab0a1joyxx00000034_1.jpg",
-    "image_url": "https://www.beautybebo.com/joy-revivify-aha-bha-glow-revealing-even-tone-skin-refiling-serum.html",
+    "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/c/fcab0a1joyxx00000034_1.jpg",
+    "imgURL_url": "https://www.beautybebo.com/joy-revivify-aha-bha-glow-revealing-even-tone-skin-refiling-serum.html",
     "price": 315.00
    },
    {
     "name": "joy revivify collagen + nutrition surge night repair moisture restoring serum",
-    "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/f/af610a1joyxx00000033_2.jpg",
-    "image_url": "https://www.beautybebo.com/joy-revivify-collagen-nutrition-surge-night-repair-moisture-restoring-serum.html",
+    "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/f/af610a1joyxx00000033_2.jpg",
+    "imgURL_url": "https://www.beautybebo.com/joy-revivify-collagen-nutrition-surge-night-repair-moisture-restoring-serum.html",
     "price": 315.00
    },
    {
     "name": "joy revivify vitamin c + bright radiance spot reduction skin brightening serum",
-    "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/c/3c9c0a1joyxx00000030_2.jpg",
-    "image_url": "https://www.beautybebo.com/joy-revivify-vitamin-c-bright-radiance-spot-reduction-skin-brightening-serum.html",
+    "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/c/3c9c0a1joyxx00000030_2.jpg",
+    "imgURL_url": "https://www.beautybebo.com/joy-revivify-vitamin-c-bright-radiance-spot-reduction-skin-brightening-serum.html",
     "price": 315.00
    },
    {
     "name": "nivea soft light moisturizer cream peppy pomegranate for hands and body",
-    "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/3/43a6fecnivea00000064_1.jpg",
-    "image_url": "https://www.beautybebo.com/nivea-soft-light-moisturizer-cream-peppy-pomegranate-for-hands-and-body.html"
+    "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/3/43a6fecnivea00000064_1.jpg",
+    "imgURL_url": "https://www.beautybebo.com/nivea-soft-light-moisturizer-cream-peppy-pomegranate-for-hands-and-body.html"
    },
    {
     "name": "nivea refreshing aloe hydration cream for face- body & hands",
-    "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/c/f/cf7485b4005900144652_1.jpg",
-    "image_url": "https://www.beautybebo.com/nivea-refreshing-aloe-hydration-cream-for-face-body-hands.html"
+    "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/c/f/cf7485b4005900144652_1.jpg",
+    "imgURL_url": "https://www.beautybebo.com/nivea-refreshing-aloe-hydration-cream-for-face-body-hands.html"
    },
    {
     "name": "nivea soft light moisturizer cream playful peach for hands and body",
-    "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/0/6005fecnivea00000061_1.jpg",
-    "image_url": "https://www.beautybebo.com/nivea-soft-light-moisturizer-cream-playful-peach-for-hands-and-body.html"
+    "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/0/6005fecnivea00000061_1.jpg",
+    "imgURL_url": "https://www.beautybebo.com/nivea-soft-light-moisturizer-cream-playful-peach-for-hands-and-body.html"
    }
   ],
   "hair": [
     {
      "name": "dove intense repair shampoo 650ml",
      "price": 350.00,
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/r/e/repair_shampoo_650-2_1_1.jpg",
-     "image_url": "https://www.beautybebo.com/dove-intense-repair-shampoo-650ml.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/r/e/repair_shampoo_650-2_1_1.jpg",
+     "imgURL_url": "https://www.beautybebo.com/dove-intense-repair-shampoo-650ml.html"
     },
     {
      "name": "wow skin science 10 in 1 miracle hair oil",
      "price": 515.00,
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/f/efbafe2nywow000083__1_.jpg",
-     "image_url": "https://www.beautybebo.com/wow-skin-science-10-in-1-miracle-hair-oil.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/f/efbafe2nywow000083__1_.jpg",
+     "imgURL_url": "https://www.beautybebo.com/wow-skin-science-10-in-1-miracle-hair-oil.html"
     },
     {
      "name": "wow skin science himalayan rose conditioner",
      "price": 395.00,
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/8/88b239c8904311904281__1_.jpg",
-     "image_url": "https://www.beautybebo.com/wow-skin-science-himalayan-rose-conditioner.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/8/88b239c8904311904281__1_.jpg",
+     "imgURL_url": "https://www.beautybebo.com/wow-skin-science-himalayan-rose-conditioner.html"
     },
     {
      "name": "wow skin science moroccan argan hair oil - with comb applicator - cold pressed",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/4/d4fb39c8904311904267__1_.jpg",
-     "image_url": "https://www.beautybebo.com/wow-skin-science-moroccan-argan-hair-oil-with-comb-applicator-cold-pressed.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/4/d4fb39c8904311904267__1_.jpg",
+     "imgURL_url": "https://www.beautybebo.com/wow-skin-science-moroccan-argan-hair-oil-with-comb-applicator-cold-pressed.html"
     },
     {
      "name": "wow skin science rice hair mask with rice water, rice keratin & lavender oil",
      "price": 449.00,
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/a/9a21c478906105615175-2.jpg",
-     "image_url": "https://www.beautybebo.com/wow-skin-science-rice-hair-mask-with-rice-water-rice-keratin-lavender-oil.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/a/9a21c478906105615175-2.jpg",
+     "imgURL_url": "https://www.beautybebo.com/wow-skin-science-rice-hair-mask-with-rice-water-rice-keratin-lavender-oil.html"
     },
     {
      "name": "joy natural actives dandruff control and scalp nourish hair treatment mask | with argan, ginger, lemon, olive & tea tree oils",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/1/51x4yt0-ucl._sl1000_.jpg",
-     "image_url": "https://www.beautybebo.com/joy-natural-actives-dandruff-control-and-scalp-nourish-hair-treatment-mask-with-argan-ginger-lemon-olive-tea-tree-oils.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/1/51x4yt0-ucl._sl1000_.jpg",
+     "imgURL_url": "https://www.beautybebo.com/joy-natural-actives-dandruff-control-and-scalp-nourish-hair-treatment-mask-with-argan-ginger-lemon-olive-tea-tree-oils.html"
     },
     {
      "name": "joy natural actives anti hair fall and damage control hair treatment mask",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/1/51wck34jr0l._sl1000_.jpg",
-     "image_url": "https://www.beautybebo.com/joy-natural-actives-anti-hair-fall-and-damage-control-hair-treatment-mask.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/1/51wck34jr0l._sl1000_.jpg",
+     "imgURL_url": "https://www.beautybebo.com/joy-natural-actives-anti-hair-fall-and-damage-control-hair-treatment-mask.html"
     },
     {
      "name": "wow skin science green tea & tea tree anti-dandruff shampoo",
      "price": 429.00,
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311903680_1.jpg",
-     "image_url": "https://www.beautybebo.com/wow-skin-science-green-tea-tea-tree-anti-dandruff-shampoo.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311903680_1.jpg",
+     "imgURL_url": "https://www.beautybebo.com/wow-skin-science-green-tea-tea-tree-anti-dandruff-shampoo.html"
     },
     {
      "name": "organic harvests color protect quinoa shampoo, sulfate-free shampoo for color-treated hair",
      "price": 364.00,
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/0/e08092aorgaa00000032_p.jpg",
-     "image_url": "https://www.beautybebo.com/organic-harvests-color-protect-quinoa-shampoo-sulfate-free-shampoo-for-color-treated-hair.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/0/e08092aorgaa00000032_p.jpg",
+     "imgURL_url": "https://www.beautybebo.com/organic-harvests-color-protect-quinoa-shampoo-sulfate-free-shampoo-for-color-treated-hair.html"
     },
     {
      "name": "mamaearth tea tree beard oil with tea tree & salicylic acid for itch-free beard",
      "price": 449.00,
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/t/e/tea-tree-beard-oil_1.jpg",
-     "image_url": "https://www.beautybebo.com/mamaearth-tea-tree-beard-oil-with-tea-tree-salicylic-acid-for-itch-free-beard.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/t/e/tea-tree-beard-oil_1.jpg",
+     "imgURL_url": "https://www.beautybebo.com/mamaearth-tea-tree-beard-oil-with-tea-tree-salicylic-acid-for-itch-free-beard.html"
     },
     {
      "name": "mamaearth onion beard oil with onion & redensyl for beard growth",
      "price": 449.00,
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/o/n/onion-beard-oil_1.jpg",
-     "image_url": "https://www.beautybebo.com/mamaearth-onion-beard-oil-with-onion-redensyl-for-beard-growth.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/o/n/onion-beard-oil_1.jpg",
+     "imgURL_url": "https://www.beautybebo.com/mamaearth-onion-beard-oil-with-onion-redensyl-for-beard-growth.html"
     },
     {
      "name": "mamaearth almond beard oil with almond & biotin for beard nourishment",
      "price": 449.00,
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/l/almond-beard-oil_1.jpg",
-     "image_url": "https://www.beautybebo.com/mamaearth-almond-beard-oil-with-almond-biotin-for-beard-nourishment.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/l/almond-beard-oil_1.jpg",
+     "imgURL_url": "https://www.beautybebo.com/mamaearth-almond-beard-oil-with-almond-biotin-for-beard-nourishment.html"
     },
     {
      "name": "schwarzkopf osis+ curl honey curl cream",
      "price": 698.00,
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/1/71utdazxekl._sl1500_.jpg",
-     "image_url": "https://www.beautybebo.com/schwarzkopf-osis-curl-honey-curl-cream.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/1/71utdazxekl._sl1500_.jpg",
+     "imgURL_url": "https://www.beautybebo.com/schwarzkopf-osis-curl-honey-curl-cream.html"
     },
     {
      "name": "schwarzkopf professional bonacure hyaluronic moisture kick masque treatment",
      "price": 950.00,
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787429534.jpg",
-     "image_url": "https://www.beautybebo.com/schwarzkopf-professional-bonacure-hyaluronic-moisture-kick-masque-treatment.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787429534.jpg",
+     "imgURL_url": "https://www.beautybebo.com/schwarzkopf-professional-bonacure-hyaluronic-moisture-kick-masque-treatment.html"
     },
     {
      "name": "schwarzkopf professional bonacure collagen volume boost micellar shampoo",
      "price": 846.00,
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787429633_2.jpg",
-     "image_url": "https://www.beautybebo.com/schwarzkopf-professional-bonacure-collagen-volume-boost-micellar-shampoo.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787429633_2.jpg",
+     "imgURL_url": "https://www.beautybebo.com/schwarzkopf-professional-bonacure-collagen-volume-boost-micellar-shampoo.html"
     },
     {
      "name": "schwarzkopf professional bonacure hyaluronic moisture kick micellar shampoo",
      "price": 846.00,
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787429138.jpg",
-     "image_url": "https://www.beautybebo.com/schwarzkopf-professional-bonacure-hyaluronic-moisture-kick-micellar-shampoo.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787429138.jpg",
+     "imgURL_url": "https://www.beautybebo.com/schwarzkopf-professional-bonacure-hyaluronic-moisture-kick-micellar-shampoo.html"
     },
     {
      "name": "schwarzkopf professional osis + session label strong hold hair super dry fix spray",
      "price": 698.00,
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787232233_1.jpg",
-     "image_url": "https://www.beautybebo.com/schwarzkopf-professional-osis-session-label-strong-hold-hair-super-dry-fix-spray.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787232233_1.jpg",
+     "imgURL_url": "https://www.beautybebo.com/schwarzkopf-professional-osis-session-label-strong-hold-hair-super-dry-fix-spray.html"
     },
     {
      "name": "schwarzkopf professional osis+ flatliner heat protection hair spray",
      "price": 814.00,
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787314908_1.jpg",
-     "image_url": "https://www.beautybebo.com/schwarzkopf-professional-osis-flatliner-heat-protection-hair-spray.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787314908_1.jpg",
+     "imgURL_url": "https://www.beautybebo.com/schwarzkopf-professional-osis-flatliner-heat-protection-hair-spray.html"
     },
     {
      "name": "schwarzkopf professional bonacure peptide repair rescue sealed ends",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787430523_2.jpg",
-     "image_url": "https://www.beautybebo.com/schwarzkopf-professional-bonacure-peptide-repair-rescue-sealed-ends.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787430523_2.jpg",
+     "imgURL_url": "https://www.beautybebo.com/schwarzkopf-professional-bonacure-peptide-repair-rescue-sealed-ends.html"
     },
     {
      "name": "schwarzkopf professional bonacure peptide repair rescue nutri-shield serum",
      "price": 691.00,
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787430646_2_1.jpg",
-     "image_url": "https://www.beautybebo.com/schwarzkopf-professional-bonacure-peptide-repair-rescue-nutri-shield-serum.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787430646_2_1.jpg",
+     "imgURL_url": "https://www.beautybebo.com/schwarzkopf-professional-bonacure-peptide-repair-rescue-nutri-shield-serum.html"
     },
     {
      "name": "mamaearth cold pressed almond oil & vitamin e for healthy hair growth",
      "price": 360.00,
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/c/accc6918906087777182_1.jpg",
-     "image_url": "https://www.beautybebo.com/mamaearth-cold-pressed-almond-oil-vitamin-e-for-healthy-hair-growth.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/c/accc6918906087777182_1.jpg",
+     "imgURL_url": "https://www.beautybebo.com/mamaearth-cold-pressed-almond-oil-vitamin-e-for-healthy-hair-growth.html"
     },
     {
      "name": "mamaearth almond shampoo with almond oil and vitamin e",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/d/9d026918906087777199_7.jpg",
-     "image_url": "https://www.beautybebo.com/mamaearth-almond-shampoo-with-almond-oil-and-vitamin-e.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/d/9d026918906087777199_7.jpg",
+     "imgURL_url": "https://www.beautybebo.com/mamaearth-almond-shampoo-with-almond-oil-and-vitamin-e.html"
     },
     {
      "name": "schwarzkopf professional bonacure keratin smooth perfect masque treatment",
      "price": 930.00,
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787429695_2.jpg",
-     "image_url": "https://www.beautybebo.com/schwarzkopf-professional-bonacure-keratin-smooth-perfect-masque-treatment.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787429695_2.jpg",
+     "imgURL_url": "https://www.beautybebo.com/schwarzkopf-professional-bonacure-keratin-smooth-perfect-masque-treatment.html"
     },
     {
      "name": "almond conditioner with almond oil & vitamin e for healthy hair growth",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/l/almond-conditioner_1.jpg",
-     "image_url": "https://www.beautybebo.com/almond-conditioner-with-almond-oil-vitamin-e-for-healthy-hair-growth.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/l/almond-conditioner_1.jpg",
+     "imgURL_url": "https://www.beautybebo.com/almond-conditioner-with-almond-oil-vitamin-e-for-healthy-hair-growth.html"
     },
     {
      "name": "wow skin science moroccan argan oil hair conditioner",
      "price": 527.00,
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/2/a23342b8904311901235_1.jpg",
-     "image_url": "https://www.beautybebo.com/wow-skin-science-moroccan-argan-oil-hair-conditioner.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/2/a23342b8904311901235_1.jpg",
+     "imgURL_url": "https://www.beautybebo.com/wow-skin-science-moroccan-argan-oil-hair-conditioner.html"
     },
     {
      "name": "wow skin science hair mask for dry and damaged hair",
      "price": 489.00,
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311902027_1.jpg",
-     "image_url": "https://www.beautybebo.com/wow-skin-science-hair-mask-for-dry-and-damaged-hair.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311902027_1.jpg",
+     "imgURL_url": "https://www.beautybebo.com/wow-skin-science-hair-mask-for-dry-and-damaged-hair.html"
     },
     {
      "name": "wow skin science moroccan argan oil shampoo - 300ml",
      "price": 489.00,
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311900788_1_1.jpg",
-     "image_url": "https://www.beautybebo.com/wow-skin-science-moroccan-argan-oil-shampoo-300ml.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311900788_1_1.jpg",
+     "imgURL_url": "https://www.beautybebo.com/wow-skin-science-moroccan-argan-oil-shampoo-300ml.html"
     },
     {
      "name": "wow onion hair care combo",
      "price": 1437.0,
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/n/y/nywowbndl0064.jpg",
-     "image_url": "https://www.beautybebo.com/wow-onion-hair-care-combo.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/n/y/nywowbndl0064.jpg",
+     "imgURL_url": "https://www.beautybebo.com/wow-onion-hair-care-combo.html"
     },
     {
      "name": "wow skin science coconut milk hair conditioner",
      "price": 435.00,
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904304495512_1_.jpg",
-     "image_url": "https://www.beautybebo.com/wow-skin-science-coconut-milk-hair-conditioner.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904304495512_1_.jpg",
+     "imgURL_url": "https://www.beautybebo.com/wow-skin-science-coconut-milk-hair-conditioner.html"
     },
     {
      "name": "wow skin science himalayan rose shampoo",
      "price": 395.00,
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/a/7af639c8904311904274__1_.jpg",
-     "image_url": "https://www.beautybebo.com/wow-skin-science-himalayan-rose-shampoo.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/a/7af639c8904311904274__1_.jpg",
+     "imgURL_url": "https://www.beautybebo.com/wow-skin-science-himalayan-rose-shampoo.html"
     },
     {
      "name": "wow skin science hair loss control therapy shampoo",
      "price": 435.00,
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311900009_1_.jpg",
-     "image_url": "https://www.beautybebo.com/wow-skin-science-hair-loss-control-therapy-shampoo.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311900009_1_.jpg",
+     "imgURL_url": "https://www.beautybebo.com/wow-skin-science-hair-loss-control-therapy-shampoo.html"
     },
     {
      "name": "wow skin science onion black seed oil ultimate hair care kit",
      "price": 1437.0,
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/n/y/nywowbndl0052n.jpg",
-     "image_url": "https://www.beautybebo.com/wow-skin-science-onion-black-seed-oil-ultimate-hair-care-kit.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/n/y/nywowbndl0052n.jpg",
+     "imgURL_url": "https://www.beautybebo.com/wow-skin-science-onion-black-seed-oil-ultimate-hair-care-kit.html"
     },
     {
      "name": "wow skin science amla shampoo for weak roots & thin damage prone hair",
      "price": 395.00,
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/c/e/ce32bed8906105613409_1.jpg",
-     "image_url": "https://www.beautybebo.com/wow-skin-science-amla-shampoo-for-weak-roots-thin-damage-prone-hair.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/c/e/ce32bed8906105613409_1.jpg",
+     "imgURL_url": "https://www.beautybebo.com/wow-skin-science-amla-shampoo-for-weak-roots-thin-damage-prone-hair.html"
     },
     {
      "name": "wow skin science rice water conditioner with rice water, rice keratin & lavender oil",
      "price": 386.00,
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/6/e62cbed8906105615151_1.jpg",
-     "image_url": "https://www.beautybebo.com/wow-skin-science-rice-water-conditioner-with-rice-water-rice-keratin-lavender-oil.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/6/e62cbed8906105615151_1.jpg",
+     "imgURL_url": "https://www.beautybebo.com/wow-skin-science-rice-water-conditioner-with-rice-water-rice-keratin-lavender-oil.html"
     },
     {
      "name": "wow skin science red onion black seed oil hair conditioner",
      "price": 435.00,
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311902140_1_.jpg",
-     "image_url": "https://www.beautybebo.com/wow-skin-science-red-onion-black-seed-oil-hair-conditioner.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311902140_1_.jpg",
+     "imgURL_url": "https://www.beautybebo.com/wow-skin-science-red-onion-black-seed-oil-hair-conditioner.html"
     },
     {
      "name": "wow skin science rice water shampoo with rice water, rice keratin & lavender oil",
      "price": 391.00,
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/3/63aebed8906105615144_1.jpg",
-     "image_url": "https://www.beautybebo.com/wow-skin-science-rice-water-shampoo-with-rice-water-rice-keratin-lavender-oil.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/3/63aebed8906105615144_1.jpg",
+     "imgURL_url": "https://www.beautybebo.com/wow-skin-science-rice-water-shampoo-with-rice-water-rice-keratin-lavender-oil.html"
     },
     {
      "name": "wow skin science red onion black seed hair serum",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/5/45836838904311901792__1_.jpg",
-     "image_url": "https://www.beautybebo.com/wow-skin-science-red-onion-black-seed-hair-serum.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/5/45836838904311901792__1_.jpg",
+     "imgURL_url": "https://www.beautybebo.com/wow-skin-science-red-onion-black-seed-hair-serum.html"
     },
     {
      "name": "wow skin science red onion black seed oil hair mask",
      "price": 435.00,
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/d/9d9efa68904311902348_1.jpg",
-     "image_url": "https://www.beautybebo.com/wow-skin-science-red-onion-black-seed-oil-hair-mask.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/d/9d9efa68904311902348_1.jpg",
+     "imgURL_url": "https://www.beautybebo.com/wow-skin-science-red-onion-black-seed-oil-hair-mask.html"
     },
     {
      "name": "schwarzkopf professional bonacure peptide repair rescue micellar shampoo",
      "price": 837.00,
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/6/16_17_5.jpg",
-     "image_url": "https://www.beautybebo.com/schwarzkopf-professional-bonacure-peptide-repair-rescue-micellar-shampoo.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/6/16_17_5.jpg",
+     "imgURL_url": "https://www.beautybebo.com/schwarzkopf-professional-bonacure-peptide-repair-rescue-micellar-shampoo.html"
     },
     {
      "name": "schwarzkopf professional spa essence enriching cream masque",
      "price": 627.00,
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/4/14_16_8.jpg",
-     "image_url": "https://www.beautybebo.com/schwarzkopf-professional-spa-essence-enriching-cream-masque.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/4/14_16_8.jpg",
+     "imgURL_url": "https://www.beautybebo.com/schwarzkopf-professional-spa-essence-enriching-cream-masque.html"
     },
     {
      "name": "schwarzkopf professional osis+ magic anti frizz shine serum",
      "price": 884.00,
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/3/13_17_8.jpg",
-     "image_url": "https://www.beautybebo.com/schwarzkopf-professional-osis-magic-anti-frizz-shine-serum.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/3/13_17_8.jpg",
+     "imgURL_url": "https://www.beautybebo.com/schwarzkopf-professional-osis-magic-anti-frizz-shine-serum.html"
     },
     {
      "name": "schwarzkopf professional bonacure keratin smooth perfect conditioner",
      "price": 837.00,
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/2/12_34_7.jpg",
-     "image_url": "https://www.beautybebo.com/schwarzkopf-professional-bonacure-keratin-smooth-perfect-conditioner.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/2/12_34_7.jpg",
+     "imgURL_url": "https://www.beautybebo.com/schwarzkopf-professional-bonacure-keratin-smooth-perfect-conditioner.html"
     }
    ],
    "body": [
     {
      "name": "bioderma sebium h2o micellaire water",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/b/bbj0001376-1.jpg",
-     "image_url": "https://www.beautybebo.com/bioderma-sebium-h2o-micellaire-water.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/b/bbj0001376-1.jpg",
+     "imgURL_url": "https://www.beautybebo.com/bioderma-sebium-h2o-micellaire-water.html",
      "price": 690.00
     },
     {
      "name": "pears naturale nourishing coconut water bodywash",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/c/o/coconut_water_bodywash-2.jpg",
-     "image_url": "https://www.beautybebo.com/pears-naturale-nourishing-coconut-water-bodywash.html"
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/c/o/coconut_water_bodywash-2.jpg",
+     "imgURL_url": "https://www.beautybebo.com/pears-naturale-nourishing-coconut-water-bodywash.html"
     },
     {
      "name": "neutrogena extra gentle cleanser",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/j/n/jnj97_1_2.jpg",
-     "image_url": "https://www.beautybebo.com/neutrogena-extra-gentle-cleanser.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/j/n/jnj97_1_2.jpg",
+     "imgURL_url": "https://www.beautybebo.com/neutrogena-extra-gentle-cleanser.html",
      "price": 611.00
     },
     {
      "name": "neutrogena oil free eye makeup remover",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/l/1/l1600_3.jpg",
-     "image_url": "https://www.beautybebo.com/neutrogena-oil-free-eye-makeup-remover.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/l/1/l1600_3.jpg",
+     "imgURL_url": "https://www.beautybebo.com/neutrogena-oil-free-eye-makeup-remover.html",
      "price": 454.00
     },
     {
      "name": "neutrogena deep clean brightening foaming cleanser",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/3/435922_1.jpg",
-     "image_url": "https://www.beautybebo.com/neutrogena-deep-clean-brightening-foaming-cleanser.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/3/435922_1.jpg",
+     "imgURL_url": "https://www.beautybebo.com/neutrogena-deep-clean-brightening-foaming-cleanser.html",
      "price": 311.00
     },
     {
      "name": "neutrogena oil-free acne wash",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/3/9300607379792.jpg",
-     "image_url": "https://www.beautybebo.com/neutrogena-oil-free-acne-wash.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/3/9300607379792.jpg",
+     "imgURL_url": "https://www.beautybebo.com/neutrogena-oil-free-acne-wash.html",
      "price": 598.00
     },
     {
      "name": "garnier skin naturals micellar cleansing water",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/7/270.jpg",
-     "image_url": "https://www.beautybebo.com/garnier-skin-naturals-micellar-cleansing-water.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/7/270.jpg",
+     "imgURL_url": "https://www.beautybebo.com/garnier-skin-naturals-micellar-cleansing-water.html",
      "price": 315.00
     },
     {
      "name": "aroma magic 3 in 1 plum blossom (hair- face- body wash)",
-     "image": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/_/1_4_1.jpg",
-     "image_url": "https://www.beautybebo.com/aroma-magic-3-in-1-plum-blossom-hair-face-body-wash.html",
+     "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/_/1_4_1.jpg",
+     "imgURL_url": "https://www.beautybebo.com/aroma-magic-3-in-1-plum-blossom-hair-face-body-wash.html",
      "price": 340.00
     }
    ]

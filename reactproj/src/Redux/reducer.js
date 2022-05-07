@@ -1,4 +1,6 @@
 import { FAILURE, REQUEST, SUCCESS,ASC,DESC, SEARCH } from "./actionTypes";
+import {  GET_INDEX_DATA,  GET_CATS_DATA,  GET_BESTSELLER_DATA,  GET_LATEST_DATA,  GET_MAKEUP_DATA,  GET_MOSTVIEWED_DATA,  GET_CATPRODUCTS_DATA,} from "./actionTypes";
+
 
 const initState = {
   data: [],
@@ -6,6 +8,12 @@ const initState = {
   isError: false,
   filterData: [],
   products: [],
+  newArrivals: [],
+  bestSeller: [],
+  latestProducts: [],
+  mostViewed: [],
+  cats: [],
+  catProducts: [],
 };
 
 const reducer = (state = initState, { type, payload,value }) => {
@@ -61,9 +69,36 @@ const reducer = (state = initState, { type, payload,value }) => {
           products: [],
           data: payload.filter((el)=>el.name.includes(value)),
         };
-
-
-
+        case GET_INDEX_DATA:
+      return {
+        ...state,
+        newArrivals: payload,
+      };
+    case GET_CATS_DATA:
+      return {
+        ...state,
+        cats: payload,
+      };
+    case GET_LATEST_DATA:
+      return {
+        ...state,
+        latestProducts: payload,
+      };
+    case GET_BESTSELLER_DATA:
+      return {
+        ...state,
+        bestSeller: payload,
+      };
+    case GET_MOSTVIEWED_DATA:
+      return {
+        ...state,
+        mostViewed: payload,
+      };
+    case GET_CATPRODUCTS_DATA:
+      return {
+        ...state,
+        catProducts: payload,
+      };
     default:
       return state;
   }

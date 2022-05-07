@@ -10,12 +10,16 @@ import { useParams } from "react-router-dom";
 import { ASC,DESC } from "../../Redux/actionTypes";
 import NavbarSearch from "./NavbarSearch";
 import { FirstImageDiv } from "./FirstImageDiv";
+import Footer from "../Footer/Footer";
 
 const ProdData=styled.div`
  #nContainer {
-  position:absolute;
-  top:200px;
+  position:relative;
+  margin-top:70px;
+  margin-bottom:20px;
+  padding-top:10px;
   width: 90vw;
+  /* border:1px solid blue; */
 
   }
 
@@ -134,6 +138,7 @@ const Products = () => {
       </div>
       </div>
       </ProdData>
+      <Footer/>
     </>
   );
 };
