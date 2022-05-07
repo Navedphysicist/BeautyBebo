@@ -1,36 +1,26 @@
 import React, { useState, useEffect } from "react";
 import styles from "./pageStyle.module.css";
-import axios from "axios";
 import { Link } from "react-router-dom";
+import { getIndexData } from "../Redux/actions";
+import { useSelector, useDispatch } from "react-redux";
+import { GET_INDEX_DATA, GET_CATS_DATA, GET_CATPRODUCTS_DATA, GET_BESTSELLER_DATA, GET_LATEST_DATA, GET_MOSTVIEWED_DATA } from "../Redux/actionTypes";
 const Home = () => {
-    let [data, setData] = useState([]);
-    let [best, setBest] = useState([]);
-    let [latest, setLatest] = useState([]);
-    let [mostViewed, setMostViewed] = useState([]);
-    let [cats, setCats] = useState([]);
+    let dispatch = useDispatch();
+    let { newArrivals, cats, catProducts, bestSeller, latestProducts, mostViewed } = useSelector((state) => state);
     let [catId, setCatId] = useState("");
-    let [catProducts, setCatProducts] = useState([]);
-    // http://localhost:8080/newArrivals
     useEffect(() => {
-        axios.get(`http://localhost:8080/newArrivals`)
-            .then(res => setData(res.data));
-        axios.get(`http://localhost:8080/bestSeller`)
-            .then(res => setBest(res.data));
-        axios.get(`http://localhost:8080/latestProducts`)
-            .then(res => setLatest(res.data));
-        axios.get(`http://localhost:8080/mostViewed`)
-            .then(res => setMostViewed(res.data));
-        axios.get(`http://localhost:8080/cats`)
-            .then(res => setCats(res.data));
-        axios.get(`http://localhost:8080/makeup`)
-            .then((res) => setCatProducts(res.data));
+        getIndexData(dispatch, "newArrivals", GET_INDEX_DATA);
+        getIndexData(dispatch, "cats", GET_CATS_DATA);
+        getIndexData(dispatch, "makeup", GET_CATPRODUCTS_DATA);
+        getIndexData(dispatch, "bestSeller", GET_BESTSELLER_DATA);
+        getIndexData(dispatch, "latestProducts", GET_LATEST_DATA);
+        getIndexData(dispatch, "mostViewed", GET_MOSTVIEWED_DATA);
     }, []);
     const handlecat = (id, category) => {
         category = category.split(" ");
         category = category.join("");
         category = category.toLowerCase();
-        axios.get(`http://localhost:8080/${category}`)
-            .then((res) => setCatProducts(res.data));
+        getIndexData(dispatch, category, GET_CATPRODUCTS_DATA)
         setCatId(id);
     }
     const handleClick = (item) => {
@@ -45,7 +35,7 @@ const Home = () => {
                 <h2 id={styles.arrivalHeading}>NEW ARRIVALS!</h2>
                 <div id={styles.newArrivals}>
                     <div id={styles.innerBox}>
-                        {data.map((item) => {
+                        {newArrivals.map((item) => {
                             return (
                                 <div key={item.id}>
                                     <Link to="/product"  >
@@ -71,7 +61,7 @@ const Home = () => {
 
                             )
                         })}
-                        {data.map((item) => {
+                        {newArrivals.map((item) => {
                             return (
 
                                 <div key={item.id}>
@@ -127,11 +117,11 @@ const Home = () => {
                     {catProducts.map((item) => {
                         return (
                             <div key={item.id}>
-                                 <Link to="/product"  >
-                                        <div id={styles.productImg} onClick={() => handleClick(item)}>
-                                            <img src={item.imgURL} alt="product-image" />
-                                        </div>
-                                    </Link>
+                                <Link to="/product"  >
+                                    <div id={styles.productImg} onClick={() => handleClick(item)}>
+                                        <img src={item.imgURL} alt="product-image" />
+                                    </div>
+                                </Link>
                                 <div>
                                     <p>{item.name}</p>
                                     <div>
@@ -157,7 +147,7 @@ const Home = () => {
                 <div>
                     <h2>best seller</h2>
                     <div>
-                        {best.map((item) => {
+                        {bestSeller.map((item) => {
 
                             return (
                                 <div key={item.id} id={styles.innerSection}>
@@ -188,7 +178,7 @@ const Home = () => {
                 <div>
                     <h2>Latest Products</h2>
                     <div>
-                        {latest.map((item) => {
+                        {latestProducts.map((item) => {
                             return (
                                 <div key={item.id} id={styles.innerSection}>
                                     <Link to="/product"  >
