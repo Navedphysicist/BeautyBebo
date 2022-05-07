@@ -8,7 +8,6 @@
       "password": "password"
     },
     {
-<<<<<<< Updated upstream
       "email": "pamkamk@gmailcom",
       "password": "pankaj",
       "firstname": "Pankaj",
@@ -37,24 +36,17 @@
       "id": 6
     },
     {
-=======
->>>>>>> Stashed changes
       "email": "navedkhan@gmail.com",
       "password": "navedkhan",
       "firstname": "Naved",
       "lastname": "Khan",
-<<<<<<< Updated upstream
       "id": 7
-=======
-      "id": 2
->>>>>>> Stashed changes
     },
     {
       "email": "navedkhan@gmail.com",
       "password": "navedkhan",
       "firstname": "Naved",
       "lastname": "Khan",
-<<<<<<< Updated upstream
       "id": 8
     },
     {
@@ -84,9 +76,6 @@
       "firstname": "",
       "lastname": "",
       "id": 12
-=======
-      "id": 3
->>>>>>> Stashed changes
     }
   ]
 }
