@@ -1,0 +1,308 @@
+body {
+  font-family: "Roboto", sans-serif;
+  /* width: 91%;
+  margin: 0 auto; */
+}
+
+a{
+  text-decoration: none;
+}
+
+#container {
+  width: 91%;
+  margin: 0 auto;
+  margin-top:100px;
+  text-align: center;
+
+}
+
+#newArrivals {
+  overflow: hidden;
+  padding: 20px 0;
+  border: 1px solid lightgray;
+  border-top: 2px solid lightgray;
+}
+
+#innerBox {
+  display: flex;
+  width: 400%;
+  position: relative;
+  animation-name: ajit;
+  animation-duration: 40s;
+  animation-iteration-count: infinite;
+}
+#innerBox > div {
+  width: 12.5%;
+  border-right: 1px solid lightgray;
+  /* position: relative; */
+}
+
+#innerBox > div p,
+#innerSection p {
+  font-size: 14px;
+  color: rgb(129, 123, 123);
+}
+
+#innerBox > div p:hover,
+#innerSection p:hover {
+  color: rgb(212, 14, 133);
+}
+
+#productImg > img {
+  width: 236px;
+  height: 236px;
+}
+
+@keyframes ajit {
+  0% {
+    left: 0%;
+  }
+  12% {
+    left: 0%;
+  }
+  13% {
+    left: -25%;
+  }
+  25% {
+    left: -25%;
+  }
+  26% {
+    left: -50%;
+  }
+  37% {
+    left: -50%;
+  }
+  38% {
+    left: -75%;
+  }
+  49% {
+    left: -75%;
+  }
+  50% {
+    left: -100%;
+  }
+  61% {
+    left: -100%;
+  }
+  62% {
+    left: -125%;
+  }
+  73% {
+    left: -125%;
+  }
+  74% {
+    left: -150%;
+  }
+  85% {
+    left: -150%;
+  }
+  86% {
+    left: -175%;
+  }
+  97% {
+    left: -175%;
+  }
+  98% {
+    left: -200%;
+  }
+}
+
+#strikePrice {
+  font-size: 14px;
+  color: gray;
+}
+
+#strikePrice::before,
+#price::before {
+  content: "₹";
+}
+
+#strikePrice::after,
+#price::after {
+  content: ".00";
+}
+
+#price {
+  color: rgb(212, 14, 133);
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0 5px;
+}
+#discount {
+  color: #008000;
+  font-weight: bold;
+}
+
+#cartBtn > button {
+  background-color: rgb(212, 14, 133);
+  border: none;
+  color: white;
+  padding: 8px 15px;
+  font-weight: bold;
+  border-radius: 5px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+#cartBtn > button:hover {
+  background-color: rgb(241, 87, 180);
+}
+
+#wishlist {
+  display: inline-block;
+  padding: 6px 10px;
+  margin-left: 10px;
+  background-color: #666666;
+  color: white;
+  border-radius: 5px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+#wishlist:hover {
+  background-color: rgb(212, 14, 133);
+}
+
+/* banner styling starts here */
+#banner {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+}
+
+/* cats styling start here */
+
+#cats {
+  display: flex;
+  list-style: outside none none;
+  justify-content: space-between;
+  border-top: 2px solid lightgray;
+  padding: 0;
+  margin-bottom: 0;
+}
+
+#cats > li {
+  width: 14%;
+  border-right: 1px solid lightgray;
+  margin: 0;
+  flex-grow: 1;
+  padding-top: 20px;
+  box-sizing: border-box;
+  color: gray;
+  cursor: pointer;
+}
+
+#cats > li > img {
+  width: 40px;
+  height: 40px;
+}
+
+#cats p {
+  margin: 0;
+}
+
+#catProductsSection {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 0 10px 0;
+  border: 1px solid lightgray;
+  box-sizing: border-box;
+  padding: 20px 0;
+}
+
+#catProductsSection > div {
+  border-right: 1px solid lightgray;
+  font-size: 14px;
+  flex-grow: 1;
+}
+/* sections code starts here */
+
+#sections {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 5px;
+}
+
+#sections h2,
+#arrivalHeading {
+  text-align: left;
+  font-weight: 400;
+  text-decoration: underline;
+  margin: 5px;
+  text-transform: uppercase;
+  letter-spacing: 0ch;
+  font-size: 18px;
+}
+
+#sections > div {
+  width: 32%;
+}
+#sections > div > div {
+  border: 1px solid lightgray;
+}
+
+#innerSection {
+  display: flex;
+  border-bottom: 1px solid lightgray;
+  padding: 5px;
+  position: relative;
+}
+
+#innerSection p {
+  margin: 5px 0;
+  font-size: 15px;
+}
+#innerImg > img {
+  width: 120px;
+  height: 120px;
+}
+
+#about {
+  text-align: left;
+  font-size: 14px;
+  color: rgb(138, 129, 129);
+}
+
+#about h1 {
+  font-weight: lighter;
+  margin-bottom: 30px;
+}
+
+#about p {
+  margin: 5px;
+}
+
+#innerBox > div {
+  position: relative;
+}
+#quickView {
+  position: absolute;
+  top: 30%;
+  left: 45%;
+  background-color: rgb(212, 14, 133);
+  color: white;
+  padding: 8px 10px;
+  /* border-radius: 5px; */
+  font-size: 14px;
+  display: none;
+}
+
+#innerBox > div:hover #quickView {
+  display: inline-block;
+}
+
+#quickViewInnerSection {
+  position: absolute;
+  top: 40%;
+  left: 13%;
+  background-color: rgb(212, 14, 133);
+  color: white;
+  padding: 6px 8px;
+  font-size: 14px;
+  display: none;
+}
+#innerSection:hover #quickViewInnerSection {
+  display: inline-block;
+}
+.active {
+  background-color: rgb(214, 33, 142);
+}

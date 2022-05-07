@@ -1,5 +1,12 @@
 import React, { useState } from 'react'
 import { useNavigate } from 'react-router-dom';
+<<<<<<< Updated upstream
+=======
+import { FirstImageDiv } from '../BBcreamitem/FirstImageDiv';
+import Navbar from '../BBcreamitem/Navbar';
+import NavbarSearch from '../BBcreamitem/NavbarSearch';
+import Footer from '../Footer/Footer';
+>>>>>>> Stashed changes
 
 
 
@@ -79,6 +86,13 @@ const Registration = () => {
    }
 
   return (
+<<<<<<< Updated upstream
+=======
+      <>
+    <FirstImageDiv/>
+    <NavbarSearch/>
+    <Navbar/>
+>>>>>>> Stashed changes
     <div className='Pcontainer'>
     <p>CREATING NEW CUSTOMER ACCOUNT</p>
     <div className='accounts'>
@@ -138,6 +152,11 @@ const Registration = () => {
     </div>
 
     </div>
+<<<<<<< Updated upstream
+=======
+    <Footer/>
+    </>
+>>>>>>> Stashed changes
   )
 }
 

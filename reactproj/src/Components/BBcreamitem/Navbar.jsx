@@ -16,6 +16,10 @@ const Navg = styled.div`
   align-items: center;
   justify-content: space-around;
   position: absolute;
+<<<<<<< Updated upstream
+=======
+  margin-bottom: 30px;
+>>>>>>> Stashed changes
   /* border:0.125rem solid purple; */
   
 }

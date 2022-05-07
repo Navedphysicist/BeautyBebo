@@ -1,7 +1,12 @@
 // use axios for api call
 import axios from "axios";
 import { FAILURE, REQUEST, SEARCH, SUCCESS } from "./actionTypes";
+<<<<<<< Updated upstream
 import { signInWithEmailAndPassword } from 'firebase/auth';
+=======
+import { GET_INDEX_DATA } from "./actionTypes";
+
+>>>>>>> Stashed changes
 
 
 export const getRequest = () => ({ type: REQUEST });
@@ -33,3 +38,24 @@ export const searchdata = (para, data) => ({
   payload: data,
 });
  
+<<<<<<< Updated upstream
+=======
+export const getIndexData = (dispatch,path,type) => {
+  try {
+    axios
+      .get(`http://localhost:8080/${path}`)
+      .then((res) => {
+        dispatch({
+          type,
+          payload: res.data,
+        });
+      })
+      .catch((error) => {
+        console.log(error);
+      });
+  } catch (error) {
+    console.log(error);
+  }
+};
+
+>>>>>>> Stashed changes

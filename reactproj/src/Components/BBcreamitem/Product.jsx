@@ -5,6 +5,10 @@ import FavoriteIcon from "@mui/icons-material/Favorite";
 import styled from "styled-components";
 import Stack from "@mui/material/Stack";
 import IconButton from "@mui/material/IconButton";
+<<<<<<< Updated upstream
+=======
+import { useNavigate } from "react-router-dom";
+>>>>>>> Stashed changes
 
 const Flex = styled.div`
   display: flex;
@@ -85,12 +89,28 @@ const Flex = styled.div`
 }
 `;
 
+<<<<<<< Updated upstream
 const Product = ({ id, image, name, price }) => {
+=======
+const Product = ({ id, imgURL, name, price }) => {
+  
+  const navigate = useNavigate();
+  const handleClick = (item) => {
+    localStorage.setItem("product", JSON.stringify(item));
+    navigate('/product')
+  };
+
+>>>>>>> Stashed changes
   return (
     <>
       <Flex>
         <div className="nksale">Sale</div>
+<<<<<<< Updated upstream
         <img src={image} alt="Invalid Image" />
+=======
+        <img onClick={()=>handleClick({id,imgURL,name,price})}
+        src={imgURL} alt="Invalid Image" />
+>>>>>>> Stashed changes
         <div className="nktitle">{name}</div>
         <div id="strike"><div id="strikePrice">{price ? `₹${price+500}` : ""}</div>
         <div className="nkprice">{price ? `₹${price}` : `OUT OF STOCK`}</div>
@@ -101,8 +121,12 @@ const Product = ({ id, image, name, price }) => {
             variant="contained"
             style={{ background: "#e08" }}
             startIcon={<ShoppingCartIcon />}
+<<<<<<< Updated upstream
           >
             Add To Cart
+=======
+          >  Add To Cart
+>>>>>>> Stashed changes
           </Button>
            <IconButton className="iconButton" variant="contained">
             <FavoriteIcon className="Favoriteicon" />

@@ -1,0 +1,414 @@
+{
+  "newArrivals": [
+    {
+      "id": 1,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/6/8/680c9508904311903031__1_.jpg",
+      "name": "WOW Skin Science Thai Body Massage Oil",
+      "price": 540,
+      "strikePrice": 599,
+      "brand": "Wow"
+    },
+    {
+      "id": 2,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/e/3eb5e308904311902874_1.jpg",
+      "name": "WOW Skin Science Raw African Shea Body Butter",
+      "price": 440,
+      "strikePrice": 499,
+      "brand": "Wow"
+    },
+    {
+      "id": 3,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/r/e/repair_shampoo_650-2_1_1.jpg",
+      "name": "Dove Intense Repair Shampoo 650ml",
+      "price": 350,
+      "strikePrice": 500,
+      "brand": "Dove"
+    },
+    {
+      "id": 4,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/i/m/image1_600x.jpg",
+      "name": "Lotus Herbals Whiteglow Vitamin C Radiance Cream Spf 20",
+      "price": 428,
+      "strikePrice": 475,
+      "brand": "Lotus Herbals"
+    },
+    {
+      "id": 5,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/8/9/8904304651284_1.jpg",
+      "name": "WOW Skin Science Activated Charcoal Face Scrub",
+      "price": 375,
+      "strikePrice": 400,
+      "brand": "Wow"
+    },
+    {
+      "id": 6,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/3/6/3699c478906105612174-2.jpg",
+      "name": "WOW Skin Science Caffeine Face Serum",
+      "price": 515,
+      "strikePrice": 599,
+      "brand": "Wow"
+    },
+    {
+      "id": 7,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/a/c/activated_charcoal_face_mask2.jpg",
+      "name": "WOW Skin Science Activated Charcoal Face Mask",
+      "price": 435,
+      "strikePrice": 499,
+      "brand": "Wow"
+    },
+    {
+      "id": 8,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/0/f0c4f25lotus00000014.jpg",
+      "name": "Lotus Organics+ Bakuchiol Plant Retinol Miracle Facial Oil",
+      "price": 896,
+      "strikePrice": 995
+    }
+  ],
+  "cats": [
+    {
+      "id": 2,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/category/skin.png",
+      "name": "Skin"
+    },
+    {
+      "id": 3,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/category/hair.png",
+      "name": "Hair"
+    },
+    {
+      "id": 4,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/category/personal-care.png",
+      "name": "Personal Care"
+    },
+    {
+      "id": 5,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/category/mom-baby-care.png",
+      "name": "Mom & Baby Care"
+    },
+    {
+      "id": 6,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/category/eye_1.png",
+      "name": "Eye"
+    },
+    {
+      "id": 7,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/category/fragrance_3.png",
+      "name": "Fragrance"
+    }
+  ],
+  "makeup": [
+    {
+      "id": 1,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/7/277cf77missc00000081_1.jpg",
+      "name": "Miss Claire Eyelash Glue - Clear Tone",
+      "price": 322,
+      "strikePrice": 350,
+      "brand": "Miss Clarire"
+    },
+    {
+      "id": 2,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/b/5b990e16902395773146_3.jpg",
+      "name": "Maybelline New York Fit Me Primer - Dewy+Smooth",
+      "price": 475,
+      "strikePrice": 499,
+      "brand": "Maybelline New York"
+    },
+    {
+      "id": 3,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/9/6902395735908_0.jpg",
+      "name": "L'Oreal Paris Infallible Full Wear Concealer",
+      "price": 735,
+      "strikePrice": 799,
+      "brand": "L'Oreal Paris"
+    },
+    {
+      "id": 4,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/1/51c18ra5qzs._sl1500_.jpg",
+      "name": "Faces Canada Ultime Pro Matte Play Eyeliner",
+      "price": 604,
+      "strikePrice": 649,
+      "brand": "Faces Canada"
+    }
+  ],
+  "skin": [
+    {
+      "id": 1,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/i/m/image1_600x.jpg",
+      "name": "Lotus Herbals Whiteglow Vitamin C Radiance Cream Spf 20",
+      "price": 428,
+      "strikePrice": 475,
+      "brand": "Lotus Herbals"
+    },
+    {
+      "id": 2,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/8/9/8904304651284_1.jpg",
+      "name": "WOW Skin Science Activated Charcoal Face Scrub",
+      "price": 375,
+      "strikePrice": 400,
+      "brand": "Wow"
+    },
+    {
+      "id": 3,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/3/6/3699c478906105612174-2.jpg",
+      "name": "WOW Skin Science Caffeine Face Serum",
+      "price": 515,
+      "strikePrice": 599,
+      "brand": "Wow"
+    },
+    {
+      "id": 4,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/a/c/activated_charcoal_face_mask2.jpg",
+      "name": "WOW Skin Science Activated Charcoal Face Mask",
+      "price": 435,
+      "strikePrice": 499,
+      "brand": "Wow"
+    }
+  ],
+  "hair": [
+    {
+      "id": 1,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/r/e/repair_shampoo_650-2_1_1.jpg",
+      "name": "Dove Intense Repair Shampoo 650ml",
+      "price": 350,
+      "strikePrice": 500,
+      "brand": "Dove"
+    },
+    {
+      "id": 2,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/f/efbafe2nywow000083__1_.jpg",
+      "name": "WOW Skin Science 10 In 1 Miracle Hair Oil",
+      "price": 510,
+      "strikePrice": 599
+    },
+    {
+      "id": 3,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/8/88b239c8904311904281__1_.jpg",
+      "name": "WOW Skin Science Himalayan Rose Conditioner",
+      "price": 399,
+      "strikePrice": 449,
+      "brand": "Wow"
+    },
+    {
+      "id": 4,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/4/d4fb39c8904311904267__1_.jpg",
+      "name": "WOW Skin Science Moroccan Argan Hair Oil - WITH COMB APPLICATOR - Cold",
+      "price": 349,
+      "strikePrice": 399,
+      "brand": "Wow"
+    }
+  ],
+  "personalcare": [
+    {
+      "id": 1,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8908003416557_1.png",
+      "name": "Organic Harvest Cleansing Milk With Essential Oils",
+      "price": 491,
+      "strikePrice": 545,
+      "brand": "Organic Harvest"
+    },
+    {
+      "id": 2,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/8/680c9508904311903031__1_.jpg",
+      "name": "WOW Skin Science Thai Body Massage Oil",
+      "price": 540,
+      "strikePrice": 599,
+      "brand": "Wow"
+    },
+    {
+      "id": 3,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/c/c/cca52498904311901341_1.jpg",
+      "name": "WOW Skin Science Moroccan Rose Otto Foaming Body Wash",
+      "price": 399,
+      "strikePrice": 449,
+      "brand": "Wow"
+    },
+    {
+      "id": 4,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/407c3408908003416601_1.jpg",
+      "name": "Organic Harvest Lavender Essential Oil",
+      "price": 405,
+      "strikePrice": 449,
+      "brand": "Organic Harvest"
+    }
+  ],
+  "mom&babycare": [
+    {
+      "id": 1,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/1/31_7_4.jpg",
+      "name": "Mamaearth Agent Apple Body Lotion For Kids With Apple & Oat Milk",
+      "price": 351,
+      "strikePrice": 399,
+      "brand": "Mamaearth"
+    },
+    {
+      "id": 2,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/0/30_6_4.jpg",
+      "name": "Mamaearth Brave Blueberry Body Lotion For Kids With Blueberry And Kokum",
+      "price": 351,
+      "strikePrice": 399,
+      "brand": "Mamaearth"
+    },
+    {
+      "id": 3,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/8/28_8_4.jpg",
+      "name": "Mamaearth Major Mango Body Lotion For Kids With Mango Butter & Milk",
+      "price": 399,
+      "strikePrice": 449,
+      "brand": "Mamaearth"
+    },
+    {
+      "id": 4,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/5/25_13_1.jpg",
+      "name": "Mamaearth Original Orange Body Lotion For Kids With Orange & Shea Butter",
+      "price": 405,
+      "strikePrice": 449,
+      "brand": "Mamaearth"
+    }
+  ],
+  "eye": [
+    {
+      "id": 1,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/7/277cf77missc00000081_1.jpg",
+      "name": "Miss Claire Eyelash Glue - Clear Tone",
+      "price": 322,
+      "strikePrice": 350,
+      "brand": "Miss Claire"
+    },
+    {
+      "id": 2,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/c/bcf6c6c8904052434726__2_.jpg",
+      "name": "Colorbar Intensify Liquid Gel Eyeliner - Arabian Nights",
+      "price": 699,
+      "strikePrice": 750,
+      "brand": "Colorbar Intensify"
+    },
+    {
+      "id": 3,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904052409748-2.jpg",
+      "name": "Colorbar Infinite 24Hrs Eyeliner",
+      "price": 651,
+      "strikePrice": 700,
+      "brand": "Colorbar Infinite"
+    },
+    {
+      "id": 4,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/1/51c18ra5qzs._sl1500_.jpg",
+      "name": "Faces Canada Ultime Pro Matte Play Eyeliner",
+      "price": 604,
+      "strikePrice": 649,
+      "brand": "Faces Canada"
+    }
+  ],
+  "fragrance": [
+    {
+      "id": 1,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/s/8/s8.jpg",
+      "name": "Calvin Klein Eternity For Men Eau De Parfum",
+      "price": 3468,
+      "strikePrice": 3650,
+      "brand": "Calvin Klein"
+    },
+    {
+      "id": 2,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo21.jpg",
+      "name": "Fogg Bleu Series Island Fragrance Body Spray",
+      "price": 255,
+      "strikePrice": 299,
+      "brand": "Fogg"
+    },
+    {
+      "id": 3,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo20.jpg",
+      "name": "Fogg Force Fragrance Body Spray",
+      "price": 230,
+      "strikePrice": 249,
+      "brand": "Fogg"
+    },
+    {
+      "id": 4,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo19.jpg",
+      "name": "Fogg Punch Fragrance Body Spray",
+      "price": 230,
+      "strikePrice": 249,
+      "brand": "Fogg"
+    }
+  ],
+  "bestSeller": [
+    {
+      "id": 1,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/p/o/ponds_super_light_gel_oil_free_moisturiser_with_hyaluronic_acid_vitamin_e2.jpg",
+      "name": "Ponds Super Light Gel Oil Free Moisturiser With Hyaluronic Acid +",
+      "price": 299,
+      "strikePrice": 399,
+      "brand": "Pond's"
+    },
+    {
+      "id": 2,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/c/l/cl-08_strawberry_love-min_2.png",
+      "name": "Blue Heaven Candy Matte Lip Color",
+      "price": 440,
+      "strikePrice": 499,
+      "brand": "Blue Heaven"
+    },
+    {
+      "id": 3,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/d/s/dsfsdafsdfsd.jpg",
+      "name": "Ponds Pimple Clear Face Wash - pack of 2",
+      "price": 498,
+      "strikePrice": 549,
+      "brand": "Pond's"
+    }
+  ],
+  "latestProducts": [
+    {
+      "id": 4,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/i/m/image1_600x.jpg",
+      "name": "Lotus Herbals Whiteglow Vitamin C Radiance Cream Spf 20",
+      "price": 428,
+      "strikePrice": 475,
+      "brand": "Lotus Herbals"
+    },
+    {
+      "id": 5,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/8/9/8904304651284_1.jpg",
+      "name": "WOW Skin Science Activated Charcoal Face Scrub",
+      "price": 375,
+      "strikePrice": 400,
+      "brand": "Wow"
+    },
+    {
+      "id": 6,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/8/9/8908003416557_1.png",
+      "name": "Organic Harvest Cleansing Milk With Essential Oils",
+      "price": 515,
+      "strikePrice": 599,
+      "brand": "Organic Harvest"
+    }
+  ],
+  "mostViewed": [
+    {
+      "id": 6,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/x/z/xzxzxzxzxz.jpeg",
+      "name": "O3+ Whitening Facial Kit With Brightening & Whitening Peel Off Mask",
+      "price": 499,
+      "strikePrice": 510,
+      "brand": "Facial Kit"
+    },
+    {
+      "id": 7,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/a/c/activated_charcoal_face_mask2.jpg",
+      "name": "WOW Skin Science Activated Charcoal Face Mask",
+      "price": 435,
+      "strikePrice": 499,
+      "brand": "Wow"
+    },
+    {
+      "id": 8,
+      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/g/v/gvhjgvyjhv.jpg",
+      "name": "Vaseline Body Lotion 400ml + Pond's Moisturising Cold Cream 55ml  Free ",
+      "price": 310,
+      "strikePrice": 399,
+      "brand": "Vaseline"
+    }
+  ]
+}
