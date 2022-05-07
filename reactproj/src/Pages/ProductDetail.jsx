@@ -1,14 +1,27 @@
 import React, { useState } from "react";
+import { useDispatch } from "react-redux";
+import { Navigate, useNavigate } from "react-router-dom";
+import { addToCart } from "../Redux/actions";
 import styles from "./productDetail.module.css";
 const ProductDetail = () => {
   let product = JSON.parse(localStorage.getItem("product"));
   let [quantity, setQuantity] = useState(1);
   let [deliverAval, setDeliverAval] = useState(false);
+  const dispatch = useDispatch();
+  const navigate = useNavigate();
   const handleQuantity = (value) => {
     setQuantity((prevState) => {
       return prevState + value;
     });
   };
+
+  const handleaddtocart = (data)=>{
+   
+     localStorage.setItem('addtocart',JSON.stringify(data))
+
+    // dispatch(addToCart(data));
+    // // navigate("/addtoCart")
+  }
   return (
     <div>
       <div id={styles.mainContainer}>
@@ -84,7 +97,7 @@ const ProductDetail = () => {
                 ></i>
               </span>
             </div>
-            <button>
+            <button onClick={()=>{handleaddtocart(product)}}>
               <i className="fa-solid fa-basket-shopping"></i> Add To Cart
             </button>
             <span id={styles.wishlist}>

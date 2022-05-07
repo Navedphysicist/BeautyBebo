@@ -52,3 +52,14 @@ export const getIndexData = (dispatch,path,type) => {
   }
 };
 
+// export const addToCart = (product)=>{
+//   axios.post('http://localhost:8081',product)
+//   .then(function (response) {
+//     console.log(response);
+//   })
+//   .catch(function (error) {
+//     console.log(error);
+//   });
+ 
+// }
+
