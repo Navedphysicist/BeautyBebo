@@ -3,15 +3,20 @@ import styled from 'styled-components'
 import { Link } from  "react-router-dom"
 
 const Navg = styled.div`
+
+*{
+  margin: 0rem;
+  padding:0rem;
+}
 #navThird {
   height: 8vh;
   width: 100vw;
   background: #e08;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-around;
   position: absolute;
-  /* border:2px solid purple; */
+  /* border:0.125rem solid purple; */
   
 }
 #navThirdList {
@@ -20,9 +25,9 @@ const Navg = styled.div`
   justify-content: center;
   height: 100%;
   box-sizing: border-box;
-  /* border:2px solid greenyellow; */
-  /* padding: 1rem; */
   text-decoration: none;
+  /* border:0.125rem solid greenyellow; */
+  /* padding: 1rem; */
   /* gap: 0.5rem; */
 }
 #navThirdList > li {
@@ -31,43 +36,54 @@ const Navg = styled.div`
   font-family: 'Roboto', sans-serif;
   font-weight: bold;
   line-height: 1.8vh;
-  /* height: 100%; */
   padding: 1.81vh;
   list-style: none;
-
+  /* height: 100%; */
+ 
   display: flex;
-  /* flex-direction: column; */
   justify-content: space-between; 
+  /* flex-direction: column; */
 
   align-items: center;
   /* padding: 0 1.3rem; */
 }
 /* Up Arrow icon on hover */
+
+#navThirdList > li:hover {
+  background-color:#c07;
+}
 .liIcon {
-   padding:5px;
+   color: white;
+   padding:0.313rem;
    /* display: none; */
-  /* margin:2px; */
+  /* margin:2; */
   /* transform: translateY(0); */
-  color: white;
 }
 /* Hover effects  */
 .nav-item:hover .liIcon {
   display: block;
    margin: auto; 
+   display: grid;
+   padding: auto;
+   transition: 600ms;
   /* transform: translateY(0); */
   /* position: relative; */
   /* font-size: 1.4em; */
   /* top: 3.9vh; */
   /* bottom: 0vh; */
-  display: grid;
   /* place-items: center; */
-  padding: auto;
-  transition: 600ms; 
+  
 }
 #navThirdList > li > a {
   text-decoration: none;
   color: white;
 }
+
+.nav-item .fa-bag-shopping {
+  color:white;
+  margin-right:0.313rem;
+}
+
 .cat1 {
   font-weight: bold;
 }
@@ -79,7 +95,7 @@ const Navg = styled.div`
   justify-content: space-evenly;
   padding: 2rem;
   background-color: white;
-  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0rem 0.313rem 0.938rem;
   position: absolute;
   width: 80%;
   margin:auto;
@@ -96,17 +112,43 @@ const Navg = styled.div`
   justify-content: space-evenly;
   padding: 1rem;
   background-color: white;
-  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0rem 0.313rem 0.938rem;
   position: absolute;
   width: 15%;
   margin:auto;
-  left: 68vw;
+  left: 50vw;
+  top: 7vh;
+  opacity: 0;
+  z-index: 5;
+  visibility: hidden;
+}
+
+.nav-item .sub-items-mycart{
+  pointer-events: none;
+  transform: translateY(0);
+  display: flex;
+  justify-content: space-evenly;
+  padding: 1rem;
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.35) 0rem 0.313rem 0.938rem;
+  position: absolute;
+  width: 12%;
+  margin:auto;
+  left: 80vw;
   top: 7vh;
   opacity: 0;
   z-index: 5;
   visibility: hidden;
 }
 /* After Hover on element */
+
+.nav-item:hover .sub-items-mycart{
+  pointer-events: all;
+  transform: translateY(0);
+  transition: 600ms;
+  opacity: 1;
+  visibility: visible;
+}
 
 .nav-item:hover .sub-items-fragrance {
   pointer-events: all;
@@ -115,8 +157,6 @@ const Navg = styled.div`
   opacity: 1;
   visibility: visible;
 }
-
-
 
 .nav-item:hover .sub-items {
   pointer-events: all;
@@ -134,13 +174,14 @@ const Navg = styled.div`
   justify-content: space-between;
 }
 /* .sub-items > div {
-  border: 1px solid black;
+  border: 0.063rem
+   solid black;
 } */
 /* .sub-list:first-child {
   margin-left: 9.2rem;
 } */
 .sub-list li {
-  font-size: 16px;
+  font-size: 1rem;
   list-style: none;
   margin-bottom: 0.6rem;
 }
@@ -453,7 +494,15 @@ const Navbar = () => {
                  </div>
                </div>
             </li>
+           </ul>
+           <ul className="sub-items" id="navThirdList">
+            <li className="nav-item">
+            <i className="fa-solid fa-bag-shopping"></i>
+              <Link to="/cart">MY CART</Link>
+              {/* <!-- sub-items --> */}
+            </li>
             </ul>
+            
         </div>
   </Navg>
   )

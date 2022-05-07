@@ -11,14 +11,14 @@ const Flex = styled.div`
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 10px;
-  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  padding: 0.625rem;
+  box-shadow: rgba(99, 99, 99, 0.2) 0rem 0.125rem 0.5rem 0rem;
 
   .nksale {
-    padding: 10px 5px 10px 5px;
+    padding: 0.625rem 0.3125rem 0.625rem 0.3125rem;
     position: absolute;
     font-weight: bold;
-    margin-top: -400px;
+    margin-top: -25rem;
     margin-right: -15.625rem;
     align-items: right;
     border-radius: 50%;
@@ -28,29 +28,29 @@ const Flex = styled.div`
   }
 
   .nktitle {
-    margin: 5px;
+    margin: 0.3125rem;
     text-transform: uppercase;
     font-weight: bold;
     width: 90%;
     font-family: "Roboto", sans-serif;
-    line-height: 25px;
+    line-height: 1.5625rem;
     text-align: center;
     color: #666666;
     background-color: #ffffff;
   }
   .nkprice {
-    margin: 5px;
-    font-size: 16px;
+    margin: 0.3125rem;
+    font-size: 1rem;
     font-family: Roboto;
-    line-height: 25px;
+    line-height: 1.5625rem;
     font-weight: bold;
     color: #e08;
   }
 
   img {
-    margin: 5px;
-    height: 300px;
-    width: 200px;
+    margin: 0.3125rem;
+    height: 18.75rem;
+    width: 12.5rem;
   }
   Button {
     box-sizing: border-box;
@@ -59,12 +59,12 @@ const Flex = styled.div`
   .iconButton {
     background: #666666;
     color: "#fffff";
-    border-radius: 5px;
+    border-radius: 0.3125rem;
   }
 
   .iconButton:hover {
     background: #e08;
-    border-radius: 5px;
+    border-radius: 0.3125rem;
   }
 
   .Favoriteicon:hover {
@@ -74,6 +74,15 @@ const Flex = styled.div`
   .Favoriteicon {
     color: white;
   }
+  #strike{
+    display: flex;
+    align-items:center;
+  }
+  #strike #strikePrice {
+  text-decoration: line-through;
+  font-size: 16px;
+  color: gray;
+}
 `;
 
 const Product = ({ id, image, name, price }) => {
@@ -83,7 +92,10 @@ const Product = ({ id, image, name, price }) => {
         <div className="nksale">Sale</div>
         <img src={image} alt="Invalid Image" />
         <div className="nktitle">{name}</div>
+        <div id="strike"><div id="strikePrice">{price ? `₹${price+500}` : ""}</div>
         <div className="nkprice">{price ? `₹${price}` : `OUT OF STOCK`}</div>
+       </div>
+     
         <Stack direction="row" spacing={2}>
           <Button
             variant="contained"
@@ -92,7 +104,7 @@ const Product = ({ id, image, name, price }) => {
           >
             Add To Cart
           </Button>
-          <IconButton className="iconButton" variant="contained">
+           <IconButton className="iconButton" variant="contained">
             <FavoriteIcon className="Favoriteicon" />
           </IconButton>
         </Stack>

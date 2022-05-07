@@ -11,21 +11,6 @@ import { ASC,DESC } from "../../Redux/actionTypes";
 import NavbarSearch from "./NavbarSearch";
 import { FirstImageDiv } from "./FirstImageDiv";
 
-const Grid = styled.div`
-  
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  grid-template-rows: auto;
-  gap: 20px;
-  top: 100px;
-  
-
-`;
-
-const Imgdiv=styled.div`
-position: relative;
-top:50px;
-`
 const ProdData=styled.div`
  #nContainer {
   position:absolute;
@@ -57,6 +42,14 @@ const ProdData=styled.div`
     border: none;
     padding-right: 2rem;
     outline:0px;
+  }
+
+  #grid{
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: auto;
+  gap: 20px;
+  top: 100px;
   }
 `
 
@@ -99,20 +92,6 @@ const Products = () => {
     dispatch(sortProducts(type,data))
     
   };
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   return isLoading ? (
     <Main>
       <Box>
@@ -148,12 +127,13 @@ const Products = () => {
           </select>
         </div>
       </div>
-      <Grid>
+      <div id='grid'>
        {data.map((el) => {
           return <Product key={el.id} {...el} />;
         })}
-      </Grid>
-      </div></ProdData>
+      </div>
+      </div>
+      </ProdData>
     </>
   );
 };
