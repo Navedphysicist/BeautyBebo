@@ -1,0 +1,60 @@
+.parent{
+    display: grid;
+    margin: auto;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 30px;
+    margin-bottom: 20px;
+}
+
+
+.firstChild{
+    margin-left: 20px;
+    /* border: 1px solid black; */
+}
+input{
+    width:95%;
+    height:30px;
+    
+}
+.select{
+    width: 95%;
+    height: 40px;
+    justify-content: center;
+}
+.lastData{
+    display: flex;
+    width: 45%;
+    height: 40px;
+    /* border: 1px solid red; */
+    justify-content: left;
+    margin-left: -20px;
+}
+.lastData > p{
+    margin-left: 100px;
+    margin-top: 0px;
+}
+.radio{
+    width: 15%;
+    height: 15px;
+}
+.btn{
+    width: 10%;
+    height: 30px;
+    background-color: #444444;
+    color: white;
+    border: none;
+}
+.btn:hover{
+    background-color: #e742a8 ;
+}
+.lastBtn{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.secondChild{
+    /* text-align: center; */
+    /* border: 1px solid blue; */
+    justify-content: center;
+    align-self: center;
+}
