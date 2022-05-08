@@ -7,6 +7,7 @@ import CircularProgress from "@mui/material/CircularProgress";
 import Box from "@mui/material/Box";
 import Navbar from "./Navbar";
 import { useParams } from "react-router-dom";
+<<<<<<< HEAD
 import { ASC, DESC } from "../../Redux/actionTypes";
 import NavbarSearch from "./NavbarSearch";
 import { FirstImageDiv } from "./FirstImageDiv";
@@ -31,6 +32,22 @@ const ProdData = styled.div`
   position:absolute;
   top:200px;
   width: 90vw;
+=======
+import { ASC,DESC } from "../../Redux/actionTypes";
+import NavbarSearch from "./NavbarSearch";
+import { FirstImageDiv } from "./FirstImageDiv";
+import Footer from "../Footer/Footer";
+
+const ProdData=styled.div`
+ #nContainer {
+  position:relative;
+  margin:auto;
+  margin-top:70px;
+  margin-bottom:20px;
+  padding-top:10px;
+  width: 90vw;
+  /* border:1px solid blue; */
+>>>>>>> main
 
   }
 
@@ -58,6 +75,17 @@ const ProdData = styled.div`
     padding-right: 2rem;
     outline:0px;
   }
+<<<<<<< HEAD
+=======
+
+  #grid{
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: auto;
+  gap: 20px;
+  top: 100px;
+  }
+>>>>>>> main
 `
 
 const Main = styled.div`
@@ -72,17 +100,30 @@ const Main = styled.div`
 
 const Products = () => {
   const dispatch = useDispatch();
+<<<<<<< HEAD
   const { id } = useParams();
+=======
+ const {id} = useParams();
+
+ 
+>>>>>>> main
   const { data, isLoading, isError, filterData, products } = useSelector(
     (state) => state.reducer
   );
 
+<<<<<<< HEAD
+=======
+  console.log(data,"data");
+
+
+>>>>>>> main
   useEffect(() => {
     dispatch(getData(id));
   }, [id]);
 
   const handleSort = (e) => {
     // dispatch sort products on change
+<<<<<<< HEAD
     let type = ""
     if (e.target.value == "l2h") {
       type = ASC
@@ -95,6 +136,19 @@ const Products = () => {
 
   };
 
+=======
+     let type=""
+    if(e.target.value=="l2h"){
+     type=ASC
+    }
+    else{
+      type=DESC
+    }
+    
+    dispatch(sortProducts(type,data))
+    
+  };
+>>>>>>> main
   return isLoading ? (
     <Main>
       <Box>
@@ -110,6 +164,7 @@ const Products = () => {
       />
     </Main>
   ) : (
+<<<<<<< HEAD
     <>
       <FirstImageDiv />
       <NavbarSearch />
@@ -136,6 +191,36 @@ const Products = () => {
           })}
         </Grid>
       </div></ProdData>
+=======
+    <> 
+   <FirstImageDiv/>
+         <NavbarSearch/>
+      <Navbar/>
+     <ProdData> <div id="nContainer">
+      <div id="ntitle">
+        <h1>{id}</h1>
+      </div>
+      {/* <!-- sortbycategory div  --> */}
+      <div id="nsortcategory">
+        <div id="nwholedivnsort">
+          <span>Sort by:</span>
+          <select name="" id="nsort" onChange={handleSort}>
+            <option value="pop">Popularity</option>
+            <option value="l2h">Price Low to High</option>
+            <option value="h2l">Price High to Low</option>
+            <option value="disc">Discounts</option>
+          </select>
+        </div>
+      </div>
+      <div id='grid'>
+       {data.map((el) => {
+          return <Product key={el.id} {...el} />;
+        })}
+      </div>
+      </div>
+      </ProdData>
+      <Footer/>
+>>>>>>> main
     </>
   );
 };
