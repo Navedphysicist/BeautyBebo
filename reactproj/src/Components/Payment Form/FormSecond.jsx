@@ -43,9 +43,9 @@ const FormSecond = () => {
                 <h2>Order Summary :</h2>
                 <hr />
                 <div>
-                    <p>Total price {totalvalue}</p>
+                    <p>Total price ₹{totalvalue}</p>
                     <hr />
-                    <p>GST {"128"}</p>
+                    <p>GST ₹{"20"}</p>
                 </div>
             </div>
             <br />

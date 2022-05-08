@@ -13,12 +13,13 @@
 .ItemQtyTotal {
   display: flex;
   margin-left: 40px;
-  justify-content: space-between;
+  /* justify-content: space-; */
   font-weight: 500;
   color: rgba(0, 0, 0, 0.541);
 }
 .PriceQty {
   display: flex;
+  margin-left:570px;
   margin-right: 60px;
 }
 .Qty {
@@ -143,8 +144,9 @@
 }
 .ESTIMATESHIPPINGANDTAX {
   width: 250px;
+  background-color: whitesmoke;
   display: flex;
-  border: 1px solid black;
+  /* border: 1px solid black; */
   justify-content: center;
   align-items: center;
 
@@ -192,7 +194,8 @@
 .ESTIMATESHIPPINGANDTAX1 {
   width: 250px;
   display: flex;
-  border: 1px solid black;
+  background-color: whitesmoke;
+  /* border: 1px solid black; */
   justify-content: center;
   align-items: center;
   margin-top: 10px;

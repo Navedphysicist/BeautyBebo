@@ -88,7 +88,7 @@ const NavbarSearch = () => {
       width: 9%;
       margin: auto;
       left: 88vw;
-      top: 18.5vh;
+      top: 16.5vh;
       opacity: 0;
       z-index: 5;
       visibility: hidden;

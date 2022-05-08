@@ -81,7 +81,7 @@ const Cart1 = ({ imgURL, price, name, id, qty }) => {
                 // onChange={()=>{qty=incQty}}
                 onChange={(e)=>handleOnChange(e,id)}
               />
-              <p>${price*qty}</p>
+              <p>₹{price*qty}</p>
             </div>
           </div>
         </div>

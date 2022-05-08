@@ -20,27 +20,27 @@ const Cart2 = () => {
           <h2>Summary</h2>
         </div>
         <div className="ESTIMATESHIPPINGANDTAX">
-          <p>ESTIMATE SHIPPING AND TAX ˅</p>
+          <p>ESTIMATE SHIPPING ˅</p>
         </div>
         <div>
           <div className="horiLineInCart2"></div>
           <div className="SubTotalIncart2">
             <p>Subtotal </p>
-            <p className="priceInCart2">{totalvalue}</p>
+            <p className="priceInCart2">₹{totalvalue}</p>
           </div>
           <div className="horiLineInCart2Small"></div>
         </div>
         <div>
           <div className="SubTotalIncart2">
             <p>Shipping (Best Way - Max 7 Business days) </p>
-            <p className="priceInCart2"> $0</p>
+            <p className="priceInCart2"> ₹0</p>
           </div>
           <div className="horiLineInCart2Small"></div>
         </div>
         <div>
           <div className="SubTotalIncart2">
-            <p>Order Total Incl. GST </p>
-            <p className="priceInCart2"> $20</p>
+            <p>Order Total Incl GST</p>
+            <p className="priceInCart2">₹{totalvalue}</p>
           </div>
           <div className="horiLineInCart2Small"></div>
         </div>
