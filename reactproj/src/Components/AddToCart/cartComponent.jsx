@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import "./cssstyle.css";
 import Cart1 from "./cartComponent1";
 import Cart2 from "./cartComponent2";
@@ -7,20 +7,35 @@ import NavbarSearch from "../BBcreamitem/NavbarSearch";
 import Navbar from "../BBcreamitem/Navbar";
 import Footer from "../Footer/Footer";
 const Cart = () => {
-  var data = JSON.parse(localStorage.getItem("addtocart"))  || []
-
-
-  console.log(data);
+  // var data = JSON.parse(localStorage.getItem("addtocart")) || [];
+  let [data, setData] = useState(JSON.parse(localStorage.getItem("addtocart")));
+  const handleOnChange = (e, id) => {
+    data.find((item) => {
+      if (item.id === id) {
+        item.qty = +e.target.value;
+        return true;
+      }
+    });
+    localStorage.setItem("addtocart", JSON.stringify(data));
+    setData((prevState) => {
+      return [...prevState];
+    });
+  };
+  const deleteItemFromCart = (dataid) => {
+    let data = JSON.parse(localStorage.getItem("addtocart")) || [];
+    data = data.filter((el) => el.id !== dataid);
+    setData(data);
+    localStorage.setItem("addtocart", JSON.stringify(data));
+  };
   return (
     <>
-     <FirstImageDiv/>
-     <NavbarSearch/>
-     <Navbar/>
-     <div>
+      <FirstImageDiv />
+      <NavbarSearch />
+      <Navbar />
+      <div id="monishContainer">
         <div className="cartTitle">
-          <p>Shopping Cart</p>
+          <p>SHOPPING CART</p>
         </div>
-
         <div className="ItemQtyTotal">
           <div>
             <p>ITEM</p>
@@ -31,23 +46,22 @@ const Cart = () => {
             <p>SUBTOTAL</p>
           </div>
         </div>
+        <div className="CartOne">
+          <div className="CartOne1">
+            {data.map((el) => {
+              return <Cart1 key={el.id} {...el} handleOnChange={handleOnChange} deleteItemFromCart={deleteItemFromCart} />;
+            })}
+            <div className="btnShopAndUpdate">
+              <button className="btnContinueShopping">CONTINUE SHOPPING</button>
+              <button className="btnUpdateShopping" onClick={() => { window.location.reload() }}>UPDATE SHOPPING CART</button>
+            </div>
+          </div>
+          <div className="CartOne2">
+            <Cart2 />
+          </div>
+        </div>
       </div>
-
-      <div className="CartOne">
-        <div className="CartOne1">
-          {data.map((el) => {
-            return <Cart1 key={el.id} {...el} />;
-          })}
-           <div className="btnShopAndUpdate">
-        <button className="btnContinueShopping">CONTINUE SHOPPING</button>
-        <button className="btnUpdateShopping" onClick={()=>{window.location.reload()}}>UPDATE SHOPPING CART</button>
-        </div>
-        </div>
-        <div className="CartOne2">
-          <Cart2 />
-        </div>
-      </div>
-      <Footer/>
+      <Footer />
     </>
   );
 };

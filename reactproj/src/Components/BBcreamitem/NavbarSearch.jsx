@@ -11,7 +11,6 @@ const NavbarSearch = () => {
     display: flex;
     gap: 0.625rem;
     justify-content: space-between;
-    border: 0.0625rem solid green;
     margin:0rem;
 
     #nksearchdiv {
@@ -111,9 +110,10 @@ const NavbarSearch = () => {
   color: #e08;
 }
   `;
+  let user = JSON.parse(localStorage.getItem("user"));
   const { data } = useSelector((state) => state.reducer);
   const dispatch = useDispatch();
-  const navigate =useNavigate();
+  const navigate = useNavigate();
   const handleSearch = (e) => {
     if (e.key === "Enter") {
       const searchValue = e.target.value;
@@ -124,7 +124,7 @@ const NavbarSearch = () => {
   return (
     <Flex >
       <img
-        onClick={()=>{navigate('/')}}
+        onClick={() => { navigate('/') }}
         src="https://www.beautybebo.com/pub/media/logo/default/beautybebo_1.png"
         alt="Invalid"
       />
@@ -146,7 +146,7 @@ const NavbarSearch = () => {
         <i className="fa-solid fa-heart"></i>
         <i className="fa-solid fa-user"></i>
         <li className="nav-item">
-          <div>My Account</div>
+          <div>{user ? user.user : "My Account"}</div>
           <div className="sub-items-mycart">
             <div className="sub-list">
               <ul>

@@ -1,33 +1,8 @@
 import React, { useEffect, useState } from "react";
-
 import "./cssstyle.css";
-const Cart1 = ({ imgURL, price, name, id, qty }) => {
-  const [updatedPrice, setUpdatedPrice] = useState(0);
-  const [incQty, setincQty] = useState(qty);
-  const handleOnChange = (e,id) => {
-    // var updatedPrice = price*e.target.value;
-    // console.log(updatedPrice);
-    setincQty((incQty) => e.target.value);
-    if (e.target.value > 0) {
-      setUpdatedPrice((updatedPrice) => price * +(e.target.value));
-
-    } else {
-      setUpdatedPrice((updatedPrice) => 0);
-    }
-    
-    let data = JSON.parse(localStorage.getItem("addtocart")) || [];
-       data = data.map((el)=>{
-         if(el.id==id){
-           el.qty=+incQty+1
-                  }
-         return el
-      })  
-   
-
-    localStorage.setItem("addtocart", JSON.stringify(data));
-    
-  };
-  console.log(updatedPrice);
+const Cart1 = ({ imgURL, price, name, id, qty, handleOnChange,deleteItemFromCart }) => {
+  const [updatedPrice, setUpdatedPrice] = useState(price * qty);
+  // const [incQty, setincQty] = useState(qty);
 
   const wishListAddOn = (obj) => {
     let data = [];
@@ -37,12 +12,12 @@ const Cart1 = ({ imgURL, price, name, id, qty }) => {
     alert("Item Added To WishList");
   };
 
-  const deleteItemFromCart = (dataid) => {
-    let data = JSON.parse(localStorage.getItem("addtocart")) || [];
-    data = data.filter((el) => el.id !== dataid);
-    localStorage.setItem("addtocart", JSON.stringify(data));
-  };
-
+  // const deleteItemFromCart = (dataid) => {
+  //   let data = JSON.parse(localStorage.getItem("addtocart")) || [];
+  //   data = data.filter((el) => el.id !== dataid);
+  //   localStorage.setItem("addtocart", JSON.stringify(data));
+  // };
+  // return null;
   return (
     <>
       <div className="totalContent">
@@ -73,15 +48,14 @@ const Cart1 = ({ imgURL, price, name, id, qty }) => {
               </div>
             </div>
             <div className="PriceQty1">
-              <p>{price}</p>
+              <p>&#8377;{price}</p>
               <input
                 className="itemQtyInput"
-                value={incQty}
+                value={qty}
                 type="number"
-                // onChange={()=>{qty=incQty}}
-                onChange={(e)=>handleOnChange(e,id)}
+                onChange={(e) => handleOnChange(e, id)}
               />
-              <p>${price*qty}</p>
+              <p>&#8377;{price * qty}</p>
             </div>
           </div>
         </div>

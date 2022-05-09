@@ -37,7 +37,7 @@ export const searchdata = (para, data) => ({
 export const getIndexData = (dispatch,path,type) => {
   try {
     axios
-      .get(`http://localhost:8080/${path}`)
+      .get(`https://beautybebo1.herokuapp.com/${path}`)
       .then((res) => {
         dispatch({
           type,
