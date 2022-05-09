@@ -1,16 +1,15 @@
-import './App.css';
-import * as React from 'react';
-import ReactDOM from 'react-dom';
-import MainRoutes from './Routes/MainRoutes';
+
+import "./App.css";
+import React from "react";
+import MainRoutes from "./Routes/MainRoutes";
 
 function App() {
   return (
     <>
-     <MainRoutes/>
-   
-      </>
-     
-  )
+
+      <MainRoutes />
+    </>
+  );
 }
 
 export default App;

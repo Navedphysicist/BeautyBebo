@@ -123,11 +123,11 @@ const Registration = () => {
             <input type="checkbox" />Sign Up for Newsletter
             <div >
                 <h4>Email</h4>
-                <input type="text" className='email' onChange={(e)=>setEmail(e.target.value)}/>
+                <input type="email" className='email' onChange={(e)=>setEmail(e.target.value)}/>
             </div>
             <div >
                 <h4>Phone</h4>
-                <input className='email' type="telephone" onChange={(e)=>setPhone(e.target.value)} pattern={"^[0-9]{10}$"} />
+                <input className='email' type="text" onChange={(e)=>setPhone(e.target.value)} pattern={"^[0-9]{10}$"} />
             </div>
             <div>
                 <h4>Password</h4>

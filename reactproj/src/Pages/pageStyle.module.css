@@ -226,7 +226,7 @@ a{
 #arrivalHeading {
   text-align: left;
   font-weight: 400;
-  text-decoration: underline;
+  text-decoration: underline rgb(221, 2, 133) 3px;
   margin: 5px;
   text-transform: uppercase;
   letter-spacing: 0ch;
@@ -263,7 +263,7 @@ a{
 }
 
 #about h1 {
-  font-weight: lighter;
+  font-weight: 400;
   margin-bottom: 30px;
 }
 

@@ -7,12 +7,13 @@ import CircularProgress from "@mui/material/CircularProgress";
 import Box from "@mui/material/Box";
 import Navbar from "./Navbar";
 import { useParams } from "react-router-dom";
-import { ASC,DESC } from "../../Redux/actionTypes";
+import { ASC, DESC } from "../../Redux/actionTypes";
+
 import NavbarSearch from "./NavbarSearch";
 import { FirstImageDiv } from "./FirstImageDiv";
 import Footer from "../Footer/Footer";
 
-const ProdData=styled.div`
+const ProdData = styled.div`
  #nContainer {
   position:relative;
   margin:auto;
@@ -70,14 +71,11 @@ const Main = styled.div`
 
 const Products = () => {
   const dispatch = useDispatch();
- const {id} = useParams();
-
- 
+  const { id } = useParams();
   const { data, isLoading, isError, filterData, products } = useSelector(
     (state) => state.reducer
   );
-
-  console.log(data,"data");
+  console.log(data, "data");
 
 
   useEffect(() => {
@@ -86,16 +84,15 @@ const Products = () => {
 
   const handleSort = (e) => {
     // dispatch sort products on change
-     let type=""
-    if(e.target.value=="l2h"){
-     type=ASC
+    let type = ""
+    if (e.target.value == "l2h") {
+      type = ASC
     }
-    else{
-      type=DESC
+    else {
+      type = DESC
     }
-    
-    dispatch(sortProducts(type,data))
-    
+
+    dispatch(sortProducts(type, data))
   };
   return isLoading ? (
     <Main>
@@ -112,34 +109,36 @@ const Products = () => {
       />
     </Main>
   ) : (
-    <> 
-   <FirstImageDiv/>
-         <NavbarSearch/>
-      <Navbar/>
-     <ProdData> <div id="nContainer">
-      <div id="ntitle">
-        <h1>{id}</h1>
-      </div>
-      {/* <!-- sortbycategory div  --> */}
-      <div id="nsortcategory">
-        <div id="nwholedivnsort">
-          <span>Sort by:</span>
-          <select name="" id="nsort" onChange={handleSort}>
-            <option value="pop">Popularity</option>
-            <option value="l2h">Price Low to High</option>
-            <option value="h2l">Price High to Low</option>
-            <option value="disc">Discounts</option>
-          </select>
+    <>
+      <FirstImageDiv />
+      <NavbarSearch />
+      <Navbar />
+      <ProdData> <div id="nContainer">
+        <div id="ntitle">
+          <h1>{id}</h1>
+        </div>
+        {/* <!-- sortbycategory div  --> */}
+        <div id="nsortcategory">
+          <div id="nwholedivnsort">
+            <span>Sort by:</span>
+            <select name="" id="nsort" onChange={handleSort}>
+              <option value="pop">Popularity</option>
+              <option value="l2h">Price Low to High</option>
+              <option value="h2l">Price High to Low</option>
+              <option value="disc">Discounts</option>
+            </select>
+          </div>
+        </div>
+        <div id='grid'>
+          {data.map((el) => {
+            return <Product key={el.id} {...el} />;
+          })}
+
         </div>
       </div>
-      <div id='grid'>
-       {data.map((el) => {
-          return <Product key={el.id} {...el} />;
-        })}
-      </div>
-      </div>
       </ProdData>
-      <Footer/>
+
+      <Footer />
     </>
   );
 };

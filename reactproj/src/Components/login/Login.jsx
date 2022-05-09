@@ -11,9 +11,7 @@ const Login = () => {
   const [password, setPassword] = useState("");
   const navigate = useNavigate();
   const dispatch = useDispatch();
-
   let data;
-
   const getData = async () => {
     try {
       let res = await fetch("http://localhost:8080/users");
@@ -27,22 +25,33 @@ const Login = () => {
     getData();
   }, [email, password]);
 
+  var rand = function () {
+    return Math.random().toString(36).substr(2);
+  };
+
+  var token = function () {
+    return rand() + rand(); // to make it longer
+  };
   const handlelogin = () => {
     let flag = false;
-
-    console.log(data);
+    let user;
     data.forEach((el) => {
       if (email === el.email && password === el.password) {
         flag = true;
-        let user = el;
+         user = el.firstname;
       }
     });
 
     if (flag === false) {
       alert("Invalid Credentials");
     } else {
+      let userToken = token();
+      let userObj = {
+        userToken,
+        user
+      }
+      localStorage.setItem("user",JSON.stringify(userObj));
       alert("Login Successful");
-      
       navigate("/");
     }
   };
