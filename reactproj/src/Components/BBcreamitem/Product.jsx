@@ -88,35 +88,49 @@ const Flex = styled.div`
 `;
 
 const Product = ({ id, imgURL, name, price }) => {
-  
+
   const navigate = useNavigate();
   const handleClick = (item) => {
-    item["qty"]=1
-    item["id"]= uuid();
-    console.log(item,"item");
+    item["qty"] = 1
+    item["id"] = uuid();
+    console.log(item, "item");
     localStorage.setItem("product", JSON.stringify(item));
     navigate('/product')
   };
+  const handleaddtocart = (productObj) => {
+    let user = localStorage.getItem("user");
+    if (user) {
 
+      let data = JSON.parse(localStorage.getItem('addtocart')) || [];
+      productObj["qty"] = 1;
+      // console.log(productObj);
+      data.push(productObj);
+      localStorage.setItem('addtocart', JSON.stringify(data));
+      navigate("/addtoCart");
+    } else {
+      navigate("/login");
+    }
+  }
   return (
     <>
       <Flex>
         <div className="nksale">Sale</div>
-        <img onClick={()=>handleClick({id,imgURL,name,price})}
-        src={imgURL} alt="Invalid Image" />
+        <img onClick={() => handleClick({ id, imgURL, name, price })}
+          src={imgURL} alt="Invalid Image" />
         <div className="nktitle">{name}</div>
-        <div id="strike"><div id="strikePrice">{price ? `₹${price+500}` : ""}</div>
-        <div className="nkprice">{price ? `₹${price}` : `OUT OF STOCK`}</div>
-       </div>
-     
+        <div id="strike"><div id="strikePrice">{price ? `₹${price + 500}` : ""}</div>
+          <div className="nkprice">{price ? `₹${price}` : `OUT OF STOCK`}</div>
+        </div>
+
         <Stack direction="row" spacing={2}>
           <Button
+            onClick={() => handleaddtocart({ id, imgURL, name, price })}
             variant="contained"
-            style={{ background: "#e08"}}
-            startIcon={<ShoppingCartIcon  style={{color:"white" }}/>}
+            style={{ background: "#e08" }}
+            startIcon={<ShoppingCartIcon style={{ color: "white" }} />}
           >  Add To Cart
           </Button>
-           <IconButton className="iconButton" variant="contained">
+          <IconButton className="iconButton" variant="contained">
             <FavoriteIcon className="Favoriteicon" />
           </IconButton>
         </Stack>

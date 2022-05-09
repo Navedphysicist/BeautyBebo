@@ -13,7 +13,7 @@ export const getData = (id) => async (dispatch) => {
   dispatch(getRequest());
 
   try {
-    let res = await axios.get(`http://localhost:4001/${id}`);
+    let res = await axios.get(`https://gautamhelp.herokuapp.com/${id}`);
     let data = res.data;
     console.log("data", data);
     dispatch(getSuccess(data));
