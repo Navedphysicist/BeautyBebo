@@ -6,6 +6,7 @@ import styled from "styled-components";
 import Stack from "@mui/material/Stack";
 import IconButton from "@mui/material/IconButton";
 import { useNavigate } from "react-router-dom";
+import { v4 as uuid } from 'uuid';
 
 const Flex = styled.div`
   display: flex;
@@ -90,6 +91,9 @@ const Product = ({ id, imgURL, name, price }) => {
   
   const navigate = useNavigate();
   const handleClick = (item) => {
+    item["qty"]=1
+    item["id"]= uuid();
+    console.log(item,"item");
     localStorage.setItem("product", JSON.stringify(item));
     navigate('/product')
   };

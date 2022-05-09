@@ -17,6 +17,7 @@ const Cart2 = () => {
         <div className="ESTIMATESHIPPINGANDTAX">
           <p>ESTIMATE SHIPPING AND TAX</p>
           <span><i className="fa-solid fa-angle-down"></i></span>
+
         </div>
         <div>
           <div className="horiLineInCart2"></div>

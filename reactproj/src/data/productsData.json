@@ -17,7 +17,7 @@
       "id": 3,
       "name": "l'oreal paris true match bb cream spf 35 pa+++ - silver/gold",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/l/o/lo17.jpg",
-      "price": 603.0
+      "price": 603.00
     },
     {
       "id": 4,
@@ -34,14 +34,14 @@
       "name": "olay total effects 7 in one touch of foundation bb cream day spf 15",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/2/92_1_2.jpg",
 
-      "price": 781.0
+      "price": 781.00
     },
     {
       "id": 8,
       "name": "nyx professional makeup born to glow liquid illuminator - sunbeam",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/0/10_26_4.jpg",
 
-      "price": 782.0
+      "price": 782.00
     },
     {
       "id": 9,
@@ -57,7 +57,7 @@
       "id": 11,
       "name": "ponds white beauty spot-less fairness day cream",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/p/1/p11.jpg",
-      "price": 242.0
+      "price": 242.00
     },
     {
       "id": 12,
@@ -74,477 +74,477 @@
       "name": "olay white radiance brightening intensive day cream spf24 uva moisturiser",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/_/1_121.jpg",
 
-      "price": 899.0
+      "price": 899.00
     },
     {
       "id": 15,
       "name": "maybelline new york clear glow bb cream - radiance",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/b/bbbb_1.jpg",
 
-      "price": 231.0
+      "price": 231.00
     },
     {
       "id": 16,
       "name": "ponds flawless radiance derma+ bb cream spf 30 pa++ - beige",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/b/bb_cream1.jpg",
 
-      "price": 338.0
+      "price": 338.00
     },
     {
       "id": 17,
       "name": "garnier skin naturals micellar cleansing water with bb cream",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/c/l/cleansing1_2.jpg",
-      "price": 220.0
+      "price": 220.00
     },
     {
       "id": 18,
       "name": "maybelline new york clear smooth bb cream - 01 fresh",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/0/1/01_fresh.jpg",
-      "price": 190.0
+      "price": 190.00
     }
   ],
   "makeup": [
     {
       "name": "miss claire eyelash glue - clear tone",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/7/277cf77missc00000081_1.jpg",
-      "price": 322.0
+      "price": 322.00
     },
     {
       "name": "maybelline new york fit me primer - dewy+smooth",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/b/5b990e16902395773146_3.jpg",
 
-      "price": 475.0
+      "price": 475.00
     },
     {
       "name": "l'oreal paris infallible full wear concealer",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/9/6902395735908_0.jpg",
 
-      "price": 735.0
+      "price": 735.00
     },
     {
       "name": "faces canada ultime pro matte play eyeliner",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/1/51c18ra5qzs._sl1500_.jpg",
 
-      "price": 604.0
+      "price": 604.00
     },
     {
       "name": "colorbar intensify liquid gel eyeliner - arabian nights",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/c/bcf6c6c8904052434726__2_.jpg",
 
-      "price": 699.0
+      "price": 699.00
     },
     {
       "name": "nyx professional makeup pore filler",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/1/618a4rcg7il._sl1500_.jpg",
 
-      "price": 1378.0
+      "price": 1378.00
     },
     {
       "name": "mamaearth naturally matte lip serum - matte liquid lipstick with vitamin c & e",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/r/artboard_1_5.jpg",
 
-      "price": 539.0
+      "price": 539.00
     },
     {
       "name": "colorbar infinite 24hrs eyeliner",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904052409748-2.jpg",
 
-      "price": 651.0
+      "price": 651.00
     },
     {
       "name": "nyx professional makeup butter gloss - angel food cake",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/0/800897828363_02.jpg",
 
-      "price": 495.0
+      "price": 495.00
     },
     {
       "name": "pac makeup blender foundation",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/7/a74edf0nypac00001337m1.jpg",
-      "price": 675.0
+      "price": 675.00
     },
     {
       "name": "mamaearth rose tinted 100% natural lip balm",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/7/57180618906087776895_rose__6_.jpg",
 
-      "price": 299.0
+      "price": 299.00
     },
     {
       "name": "mamaearth ubtan tinted 100% natural lip balm for lightening dark lips",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/f/2ff90618906087776918__6_.jpg",
 
-      "price": 299.0
+      "price": 299.00
     },
     {
       "name": "mamaearth vitamin c tinted 100% natural lip balm for lip lightening",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/0/a0c40618906087776895_vitc__6_.jpg",
 
-      "price": 299.0
+      "price": 299.00
     },
     {
       "name": "faces canada ultimepro twist eye kajal liner",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/_/3_126.jpg",
 
-      "price": 539.0
+      "price": 539.00
     },
     {
       "name": "miss claire mineral blusher kit - 3716-4-04",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/_/5_91.jpg",
 
-      "price": 338.0
+      "price": 338.00
     },
     {
       "name": "nyx professional makeup epic ink liner - black",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/0/20_12_5.jpg",
 
-      "price": 759.0
+      "price": 759.00
     },
     {
       "name": "faces canada peaches n cream tinted moisturizer - light 01",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/4/54_2.jpg",
 
-      "price": 539.0
+      "price": 539.00
     },
     {
       "name": "mamaearth cherry tinted 100% natural lip balm with cherry and coconut oil",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/4/44_2_3.jpg",
 
-      "price": 299.0
+      "price": 299.00
     },
     {
       "name": "mamaearth coco tinted 100% natural lip balm with coco and vitamin e",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/2/42_3_2.jpg",
 
-      "price": 299.0
+      "price": 299.00
     },
     {
       "name": "mamaearth charcoal black long stay kohl with castor oil and chamomile for 11-hour smudge-free stay with free sharpener",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/9/39_2_2.jpg",
 
-      "price": 449.0
+      "price": 449.00
     },
     {
       "name": "lakme absolute illuminating blush shimmer brick - in pink",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/7/37_4_2.jpg",
 
-      "price": 689.0
+      "price": 689.00
     },
     {
       "name": "faces canada ultime pro hd all that glow highlighter",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/6/36_4_2.jpg",
 
-      "price": 809.0
+      "price": 809.00
     },
     {
       "name": "mamaearth rose tinted 100% natural lip balm with rose oil and castor oil",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/_/8_41_4.jpg",
 
-      "price": 299.0
+      "price": 299.00
     },
     {
       "name": "blue heaven bling matte + metallic eyeshadow palette - subtle romance - pack of 2",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/_/2_174_6.jpg",
 
-      "price": 450.0
+      "price": 450.00
     },
     {
       "name": "mamaearth ubtan tinted 100% natural lip balm with turmeric & saffron",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/_/5_90_3.jpg",
 
-      "price": 299.0
+      "price": 299.00
     },
     {
       "name": "swiss beauty pro 12 exotic color eyeshadows - fearless",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/_/4_98_9.jpg",
 
-      "price": 449.0
+      "price": 449.00
     },
     {
       "name": "faces canada ultime pro brow defining pencil - dark brown 02",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/_/1_210_10.jpg",
 
-      "price": 449.0
+      "price": 449.00
     },
     {
       "name": "faces canada ultimepro hd deep black one stroke kajal",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/_/1_210_8.jpg",
 
-      "price": 643.0
+      "price": 643.00
     }
   ],
   "eye": [
     {
       "name": "miss claire eyelash glue - clear tone",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/7/277cf77missc00000081_1.jpg",
-      "price": 322.0
+      "price": 322.00
     },
     {
       "name": "faces canada ultime pro matte play eyeliner",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/1/51c18ra5qzs._sl1500_.jpg",
-      "price": 604.0
+      "price": 604.00
     },
     {
       "name": "colorbar intensify liquid gel eyeliner - arabian nights",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/c/bcf6c6c8904052434726__2_.jpg",
 
-      "price": 699.0
+      "price": 699.00
     },
     {
       "name": "faces canada ultimepro twist eye kajal liner",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/_/3_126.jpg",
 
-      "price": 539.0
+      "price": 539.00
     },
     {
       "name": "blue heaven 12-in-1 bling eyeshadow palette - cocktail fever - (pack of 2)",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/_/1_210_13.jpg",
 
-      "price": 450.0
+      "price": 450.00
     },
     {
       "name": "faces canada ultime pro eye shadow palette - nude 01",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/1/21_12_6.jpg",
 
-      "price": 920.0
+      "price": 920.00
     },
     {
       "name": "nyx professional makeup epic ink liner - black",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/0/20_12_5.jpg",
 
-      "price": 759.0
+      "price": 759.00
     },
     {
       "name": "colorbar lash illusion mascara lengthening lash & volumising mascara",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/6/56_2.jpg",
 
-      "price": 446.0
+      "price": 446.00
     },
     {
       "name": "mamaearth charcoal black long stay kohl with castor oil and chamomile for 11-hour smudge-free stay with free sharpener",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/9/39_2_2.jpg",
-      "price": 449.0
+      "price": 449.00
     },
     {
       "name": "faces canada ultime pro a matte made in heaven ink eyeliner",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/_/5_90_5.jpg",
-      "price": 539.0
+      "price": 539.00
     },
     {
       "name": "blue heaven bling matte + metallic eyeshadow palette - subtle romance - pack of 2",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/_/2_174_6.jpg",
-      "price": 450.0
+      "price": 450.00
     },
     {
       "name": "swiss beauty pro 12 exotic color eyeshadows - fearless",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/_/4_98_9.jpg",
-      "price": 449.0
+      "price": 449.00
     },
     {
       "name": "faces canada ultime pro brow defining pencil - dark brown 02",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/_/1_210_10.jpg",
-      "price": 449.0
+      "price": 449.00
     },
     {
       "name": "faces canada ultimepro hd deep black one stroke kajal",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/_/1_210_8.jpg",
-      "price": 643.0
+      "price": 643.00
     },
     {
       "name": "swiss beauty hd textured shadow palette - 2",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/4/140_1_1.jpg",
-      "price": 549.0
+      "price": 549.00
     },
     {
       "name": "blue heaven intense eyeliner easy sketch - extreme black - (pack of 2)",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/1/51_1.jpg",
-      "price": 288.0
+      "price": 288.00
     },
     {
       "name": "faces canada ultime pro eye shadow palette - glimmer 03",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/7/179.jpg",
-      "price": 949.0
+      "price": 949.00
     },
     {
       "name": "lakme absolute infinity eye shadow palette - soft nudes",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/7/177.jpg",
-      "price": 915.0
+      "price": 915.00
     },
     {
       "name": "miss claire make up palette 9924 (make up kit)",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/6/160.jpg",
-      "price": 1007.0
+      "price": 1007.00
     },
     {
       "name": "miss claire make up palette 9929 (make up kit)",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/5/159.jpg",
-      "price": 2180.0
+      "price": 2180.00
     },
     {
       "name": "miss claire make up palette 9910 (make up kit)",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/5/158.jpg",
-      "price": 1007.0
+      "price": 1007.00
     },
     {
       "name": "miss claire the naked natural nudes eye color palette - 1",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/5/157.jpg",
-      "price": 639.0
+      "price": 639.00
     },
     {
       "name": "miss claire make up palette 9911 (make up kit)",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/5/155.jpg",
-      "price": 1058.0
+      "price": 1058.00
     },
     {
       "name": "miss claire professional eyeshadow palette - 3",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/5/154.jpg",
-      "price": 1895.0
+      "price": 1895.00
     },
     {
       "name": "miss claire make up palette 9953-2 (make up kit)",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/5/153.jpg",
-      "price": 639.0
+      "price": 639.00
     },
     {
       "name": "miss claire make up palette 9951-2 (make up kit)",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/5/152.jpg",
-      "price": 446.0
+      "price": 446.00
     },
     {
       "name": "miss claire make up palette 9952-2 (make up kit)",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/5/150.jpg",
-      "price": 446.0
+      "price": 446.00
     },
     {
       "name": "miss claire make up palette 9955-1 (make up kit)",
       "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/4/149.jpg",
-      "price": 823.0
+      "price": 823.00
     }
   ],
   "lips": [
-    {
+    {  
      "name": "mamaearth naturally matte lip serum - matte liquid lipstick with vitamin c & e",
      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/r/artboard_1_5.jpg",
      "imgURL_url": "https://www.beautybebo.com/mamaearth-naturally-matte-lip-serum-matte-liquid-lipstick-with-vitamin-c-e.html",
-     "price": 539.00
+     "price": 539.000
     },
-    {
+    { 
      "name": "nyx professional makeup butter gloss - angel food cake",
      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/0/800897828363_02.jpg",
      "imgURL_url": "https://www.beautybebo.com/nyx-professional-makeup-butter-gloss-angel-food-cake.html",
-     "price": 495.00
+     "price": 495.000
     },
     {
      "name": "mamaearth rose tinted 100% natural lip balm",
      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/7/57180618906087776895_rose__6_.jpg",
      "imgURL_url": "https://www.beautybebo.com/mamaearth-rose-tinted-100-natural-lip-balm.html",
-     "price": 299.00
+     "price": 299.000
     },
     {
      "name": "mamaearth ubtan tinted 100% natural lip balm for lightening dark lips",
      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/f/2ff90618906087776918__6_.jpg",
      "imgURL_url": "https://www.beautybebo.com/mamaearth-ubtan-tinted-100-natural-lip-balm-for-lightening-dark-lips.html",
-     "price": 299.00
+     "price": 299.000
     },
     {
      "name": "mamaearth vitamin c tinted 100% natural lip balm for lip lightening",
      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/0/a0c40618906087776895_vitc__6_.jpg",
      "imgURL_url": "https://www.beautybebo.com/mamaearth-vitamin-c-tinted-100-natural-lip-balm-for-lip-lightening.html",
-     "price": 299.00
+     "price": 299.000
     },
     {
      "name": "mamaearth cherry tinted 100% natural lip balm with cherry and coconut oil",
      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/4/44_2_3.jpg",
      "imgURL_url": "https://www.beautybebo.com/mamaearth-cherry-tinted-100-natural-lip-balm-with-cherry-and-coconut-oil.html",
-     "price": 299.00
+     "price": 299.000
     },
     {
      "name": "mamaearth coco tinted 100% natural lip balm with coco and vitamin e",
      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/2/42_3_2.jpg",
      "imgURL_url": "https://www.beautybebo.com/mamaearth-coco-tinted-100-natural-lip-balm-with-coco-and-vitamin-e.html",
-     "price": 299.00
+     "price": 299.000
     },
     {
      "name": "mamaearth rose tinted 100% natural lip balm with rose oil and castor oil",
      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/_/8_41_4.jpg",
      "imgURL_url": "https://www.beautybebo.com/mamaearth-rose-tinted-100-natural-lip-balm-with-rose-oil-and-castor-oil.html",
-     "price": 299.00
+     "price": 299.000
     },
     {
      "name": "mamaearth ubtan tinted 100% natural lip balm with turmeric & saffron",
      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/_/5_90_3.jpg",
      "imgURL_url": "https://www.beautybebo.com/mamaearth-ubtan-tinted-100-natural-lip-balm-with-turmeric-saffron.html",
-     "price": 299.00
+     "price": 299.000
     },
     {
      "name": "mamaearth vitamin c tinted 100% natural lip balm with vitamin c & honey",
      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/0/10_26_6.jpg",
      "imgURL_url": "https://www.beautybebo.com/mamaearth-vitamin-c-tinted-100-natural-lip-balm-with-vitamin-c-honey.html",
-     "price": 299.00
+     "price": 299.000
     },
     {
      "name": "faces canada no transfer matte lipstick",
      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/2/229.jpg",
      "imgURL_url": "https://www.beautybebo.com/faces-canada-no-transfer-matte-lipstick.html",
-     "price": 549.00
+     "price": 549.000
     },
     {
      "name": "faces canada ultime pro hd intense matte lips + primer",
      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/8/181.jpg",
      "imgURL_url": "https://www.beautybebo.com/faces-canada-ultime-pro-hd-intense-matte-lips-primer.html",
-     "price": 799.00
+     "price": 799.000
     },
     {
      "name": "miss claire make up palette 9924 (make up kit)",
      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/6/160.jpg",
      "imgURL_url": "https://www.beautybebo.com/miss-claire-make-up-palette-9924-make-up-kit.html",
-     "price": 1007.00
+     "price": 1007.000
     },
     {
      "name": "miss claire make up palette 9929 (make up kit)",
      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/5/159.jpg",
      "imgURL_url": "https://www.beautybebo.com/miss-claire-make-up-palette-9929-make-up-kit.html",
-     "price": 2180.00
+     "price": 2180.000
     },
     {
      "name": "miss claire make up palette 9910 (make up kit)",
      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/5/158.jpg",
      "imgURL_url": "https://www.beautybebo.com/miss-claire-make-up-palette-9910-make-up-kit.html",
-     "price": 1007.00
+     "price": 1007.000
     },
     {
      "name": "miss claire make up palette 9911 (make up kit)",
      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/5/155.jpg",
      "imgURL_url": "https://www.beautybebo.com/miss-claire-make-up-palette-9911-make-up-kit.html",
-     "price": 1058.00
+     "price": 1058.000
     },
     {
      "name": "miss claire make up palette 9954-1 (make up kit)",
      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/4/144.jpg",
      "imgURL_url": "https://www.beautybebo.com/miss-claire-make-up-palette-9954-1-make-up-kit.html",
-     "price": 536.00
+     "price": 536.000
     },
     {
      "name": "miss claire make up palette 9912 (make up kit)",
      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/4/143.jpg",
      "imgURL_url": "https://www.beautybebo.com/miss-claire-make-up-palette-9912-make-up-kit.html",
-     "price": 1007.00
+     "price": 1007.000
     },
     {
      "name": "miss claire make up palette 9942 (make up kit)",
      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/3/139.jpg",
      "imgURL_url": "https://www.beautybebo.com/miss-claire-make-up-palette-9942-make-up-kit.html",
-     "price": 966.00
+     "price": 966.000
     },
     {
      "name": "miss claire make up palette 9954-2 (make up kit)",
      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/3/138.jpg",
      "imgURL_url": "https://www.beautybebo.com/miss-claire-make-up-palette-9954-2-make-up-kit.html",
-     "price": 536.00
+     "price": 536.000
     },
     {
      "name": "miss claire prestige lip & eye makeup remover",
      "imgURL": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/1/112_1_1.jpg",
      "imgURL_url": "https://www.beautybebo.com/miss-claire-prestige-lip-eye-makeup-remover.html",
-     "price": 563.00
+     "price": 563.000
     },
     {
      "name": "miss claire make up palette 9932 (make up kit)",

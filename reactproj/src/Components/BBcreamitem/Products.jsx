@@ -8,6 +8,7 @@ import Box from "@mui/material/Box";
 import Navbar from "./Navbar";
 import { useParams } from "react-router-dom";
 import { ASC, DESC } from "../../Redux/actionTypes";
+
 import NavbarSearch from "./NavbarSearch";
 import { FirstImageDiv } from "./FirstImageDiv";
 import Footer from "../Footer/Footer";
@@ -71,12 +72,9 @@ const Main = styled.div`
 const Products = () => {
   const dispatch = useDispatch();
   const { id } = useParams();
-
-
   const { data, isLoading, isError, filterData, products } = useSelector(
     (state) => state.reducer
   );
-
   console.log(data, "data");
 
 
@@ -95,7 +93,6 @@ const Products = () => {
     }
 
     dispatch(sortProducts(type, data))
-
   };
   return isLoading ? (
     <Main>
@@ -136,9 +133,11 @@ const Products = () => {
           {data.map((el) => {
             return <Product key={el.id} {...el} />;
           })}
+
         </div>
       </div>
       </ProdData>
+
       <Footer />
     </>
   );

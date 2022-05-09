@@ -56,6 +56,7 @@ const Cart1 = ({ imgURL, price, name, id, qty, handleOnChange,deleteItemFromCart
                 onChange={(e) => handleOnChange(e, id)}
               />
               <p>&#8377;{price * qty}</p>
+
             </div>
           </div>
         </div>
