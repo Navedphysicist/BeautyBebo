@@ -3,7 +3,7 @@
 This was our project for Unit-4 Construct week at Masai Shcool.
 Our main objective was to complete all main functionality of this e-commerce website, such as Signing Up for the buy of a product. We have completed this project in 5 days.
 
-- [Click here](https://splendorous-brigadeiros-cc40fb.netlify.app/) to see preview of our project.
+- [Click here](https://gleaming-hotteok-a2ad5e.netlify.app/) to see preview of our project.
 
 beauty bebo is India’s fastest growing online retail store for the day-to-day and special occasion needs of Makeup, Skincare, Haircare, Personal care, Mom and Baby care, Fragrance, and Ayurveda products.
 
