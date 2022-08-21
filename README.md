@@ -5,8 +5,7 @@ Our main objective was to complete all main functionality of this e-commerce web
 
 - [Click here](https://gleaming-hotteok-a2ad5e.netlify.app/) to see preview of our project.
 
-beauty bebo is India’s fastest growing online retail store for the day-to-day and special occasion needs of Makeup, Skincare, Haircare, Personal care, Mom and Baby care, Fragrance, and Ayurveda products.
-
+BeautyBebo is an E-commerce web application to buy Skincare, Hair care, and Ayurveda products 
 ## Credits
 
 - Images : [beautybebo.com](https://www.beautybebo.com/)
