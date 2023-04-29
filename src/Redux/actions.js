@@ -13,7 +13,7 @@ export const getData = (id) => async (dispatch) => {
   dispatch(getRequest());
 
   try {
-    let res = await axios.get(`https://gautamhelp.herokuapp.com/${id}`);
+    let res = await axios.get(`https://beautybebotwo.onrender.com/${id}`);
     let data = res.data;
     console.log("data", data);
     dispatch(getSuccess(data));
@@ -37,7 +37,7 @@ export const searchdata = (para, data) => ({
 export const getIndexData = (dispatch,path,type) => {
   try {
     axios
-      .get(`https://beautybebo1.herokuapp.com/${path}`)
+      .get(`https://beautybebobackend.onrender.com/${path}`)
       .then((res) => {
         dispatch({
           type,

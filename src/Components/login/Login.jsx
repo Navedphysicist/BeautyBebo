@@ -14,7 +14,7 @@ const Login = () => {
   let data;
   const getData = async () => {
     try {
-      let res = await fetch("https://gautamhelp.herokuapp.com/users");
+      let res = await fetch("https://beautybebotwo.onrender.com/users");
       data = await res.json();
     } catch (e) {
       console.log(e);
