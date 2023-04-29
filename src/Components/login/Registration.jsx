@@ -19,7 +19,7 @@ const Registration = () => {
     const handledata=async()=>{
 
         try{
-                   let res=await fetch("https://gautamhelp.herokuapp.com/users",{
+                   let res=await fetch("https://beautybebotwo.onrender.com/users",{
                        method:"POST",
                        headers:{"content-type":"application/json"},
                        body:JSON.stringify({
@@ -50,7 +50,7 @@ const Registration = () => {
               console.log(email,password,firstname,lastname,phone)
        
               try{
-                  let res=await fetch("https://gautamhelp.herokuapp.com/users",{
+                  let res=await fetch("https://beautybebotwo.onrender.com/users",{
                       method:"POST",
                       headers:{"content-type":"application/json"},
                       body:JSON.stringify({
